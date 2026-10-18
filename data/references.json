@@ -1,0 +1,871 @@
+{
+  "name": "Dyscalculia.io references",
+  "page": "https://dyscalculia.io/dyscalculia-statistics#sources",
+  "note": "Exactly the site's reference list (content/references.ts). A DOI or PMID is given only where the site has one; nothing is added here. Web sources carry the access date in their citation text.",
+  "snapshot": "2026-10-18",
+  "count": 93,
+  "usedInStatistics": 28,
+  "references": [
+    {
+      "key": "butterworth2011",
+      "citation": "Butterworth B, Varma S, Laurillard D (2011). Dyscalculia: from brain to education. Science, 332(6033), 1049-53.",
+      "doi": "10.1126/science.1201536",
+      "pmid": "21617068",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/21617068/",
+      "kind": "article",
+      "usedInStatistics": []
+    },
+    {
+      "key": "mazzocco2011",
+      "citation": "Mazzocco MM, Feigenson L, Halberda J (2011). Impaired acuity of the approximate number system underlies mathematical learning disability (dyscalculia). Child Dev, 82(4), 1224-37.",
+      "doi": "10.1111/j.1467-8624.2011.01608.x",
+      "pmid": "21679173",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/21679173/",
+      "kind": "article",
+      "usedInStatistics": []
+    },
+    {
+      "key": "landerl2009",
+      "citation": "Landerl K, Fussenegger B, Moll K et al. (2009). Dyslexia and dyscalculia: two learning disorders with different cognitive profiles. J Exp Child Psychol, 103(3), 309-24.",
+      "doi": "10.1016/j.jecp.2009.03.006",
+      "pmid": "19398112",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/19398112/",
+      "kind": "article",
+      "usedInStatistics": [
+        "comorbidity"
+      ]
+    },
+    {
+      "key": "moll2014",
+      "citation": "Moll K, Kunze S, Neuhoff N et al. (2014). Specific learning disorder: prevalence and gender differences. PLoS One, 9(7), e103537.",
+      "doi": "10.1371/journal.pone.0103537",
+      "pmid": "25072465",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/25072465/",
+      "kind": "article",
+      "usedInStatistics": [
+        "sex-ratio"
+      ]
+    },
+    {
+      "key": "schleifer2011",
+      "citation": "Schleifer P, Landerl K (2011). Subitizing and counting in typical and atypical development. Dev Sci, 14(2), 280-91.",
+      "doi": "10.1111/j.1467-7687.2010.00976.x",
+      "pmid": "22213901",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/22213901/",
+      "kind": "article",
+      "usedInStatistics": []
+    },
+    {
+      "key": "siegler2003",
+      "citation": "Siegler RS, Opfer JE (2003). The development of numerical estimation: evidence for multiple representations of numerical quantity. Psychol Sci, 14(3), 237-43.",
+      "doi": "10.1111/1467-9280.02438",
+      "pmid": "12741747",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/12741747/",
+      "kind": "article",
+      "usedInStatistics": []
+    },
+    {
+      "key": "szucs2013",
+      "citation": "Szucs D, Devine A, Soltesz F et al. (2013). Developmental dyscalculia is related to visuo-spatial memory and inhibition impairment. Cortex, 49(10), 2674-88.",
+      "doi": "10.1016/j.cortex.2013.06.007",
+      "pmid": "23890692",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/23890692/",
+      "kind": "article",
+      "usedInStatistics": []
+    },
+    {
+      "key": "kaufmann2013",
+      "citation": "Kaufmann L, Mazzocco MM, Dowker A et al. (2013). Dyscalculia from a developmental and differential perspective. Front Psychol, 4(), 516.",
+      "doi": "10.3389/fpsyg.2013.00516",
+      "pmid": "23970870",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/23970870/",
+      "kind": "article",
+      "usedInStatistics": []
+    },
+    {
+      "key": "shalev2000",
+      "citation": "Shalev RS, Auerbach J, Manor O et al. (2000). Developmental dyscalculia: prevalence and prognosis. Eur Child Adolesc Psychiatry, 9 Suppl 2(), II58-64.",
+      "doi": "10.1007/s007870070009",
+      "pmid": "11138905",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/11138905/",
+      "kind": "article",
+      "usedInStatistics": [
+        "key-figures",
+        "prevalence",
+        "by-country"
+      ]
+    },
+    {
+      "key": "haberstroh2019",
+      "citation": "Haberstroh S, Schulte-Körne G (2019). The Diagnosis and Treatment of Dyscalculia. Dtsch Arztebl Int, 116(7), 107-114.",
+      "doi": "10.3238/arztebl.2019.0107",
+      "pmid": "30905334",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/30905334/",
+      "kind": "article",
+      "usedInStatistics": [
+        "key-figures",
+        "prevalence",
+        "by-country",
+        "comorbidity",
+        "persistence",
+        "interventions"
+      ]
+    },
+    {
+      "key": "landerl2004",
+      "citation": "Landerl K, Bevan A, Butterworth B (2004). Developmental dyscalculia and basic numerical capacities: a study of 8-9-year-old students. Cognition, 93(2), 99-125.",
+      "doi": "10.1016/j.cognition.2003.11.004",
+      "pmid": "15147931",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/15147931/",
+      "kind": "article",
+      "usedInStatistics": []
+    },
+    {
+      "key": "devine2013",
+      "citation": "Devine A, Soltész F, Nobes A et al. (2013). Gender differences in developmental dyscalculia depend on diagnostic criteria. Learn Instr, 27(), 31-39.",
+      "doi": "10.1016/j.learninstruc.2013.02.004",
+      "pmid": "27667904",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/27667904/",
+      "kind": "article",
+      "usedInStatistics": [
+        "prevalence",
+        "sex-ratio"
+      ]
+    },
+    {
+      "key": "kucian2015",
+      "citation": "Kucian K, von Aster M (2015). Developmental dyscalculia. Eur J Pediatr, 174(1), 1-13.",
+      "doi": "10.1007/s00431-014-2455-7",
+      "pmid": "25529864",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/25529864/",
+      "kind": "article",
+      "usedInStatistics": []
+    },
+    {
+      "key": "shalev2001",
+      "citation": "Shalev RS, Manor O, Kerem B et al. (2001). Developmental dyscalculia is a familial learning disability. J Learn Disabil, 34(1), 59-65.",
+      "doi": "10.1177/002221940103400105",
+      "pmid": "15497272",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/15497272/",
+      "kind": "article",
+      "usedInStatistics": [
+        "family"
+      ]
+    },
+    {
+      "key": "kovas2007",
+      "citation": "Kovas Y, Haworth CM, Dale PS et al. (2007). The genetic and environmental origins of learning abilities and disabilities in the early school years. Monogr Soc Res Child Dev, 72(3), vii, 1-144.",
+      "doi": "10.1111/j.1540-5834.2007.00439.x",
+      "pmid": "17995572",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/17995572/",
+      "kind": "article",
+      "usedInStatistics": [
+        "family"
+      ]
+    },
+    {
+      "key": "ashcraft2007",
+      "citation": "Ashcraft MH, Krause JA (2007). Working memory, math performance, and math anxiety. Psychon Bull Rev, 14(2), 243-8.",
+      "doi": "10.3758/bf03194059",
+      "pmid": "17694908",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/17694908/",
+      "kind": "article",
+      "usedInStatistics": []
+    },
+    {
+      "key": "dowker2016",
+      "citation": "Dowker A, Sarkar A, Looi CY (2016). Mathematics Anxiety: What Have We Learned in 60 Years? Front Psychol, 7(), 508.",
+      "doi": "10.3389/fpsyg.2016.00508",
+      "pmid": "27199789",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/27199789/",
+      "kind": "article",
+      "usedInStatistics": []
+    },
+    {
+      "key": "willcutt2013",
+      "citation": "Willcutt EG, Petrill SA, Wu S et al. (2013). Comorbidity between reading disability and math disability: concurrent psychopathology, functional impairment, and neuropsychological functioning. J Learn Disabil, 46(6), 500-16.",
+      "doi": "10.1177/0022219413477476",
+      "pmid": "23449727",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/23449727/",
+      "kind": "article",
+      "usedInStatistics": []
+    },
+    {
+      "key": "monuteaux2005",
+      "citation": "Monuteaux MC, Faraone SV, Herzig K et al. (2005). ADHD and dyscalculia: Evidence for independent familial transmission. J Learn Disabil, 38(1), 86-93.",
+      "doi": "10.1177/00222194050380010701",
+      "pmid": "15727331",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/15727331/",
+      "kind": "article",
+      "usedInStatistics": []
+    },
+    {
+      "key": "kucian2011",
+      "citation": "Kucian K, Grond U, Rotzer S et al. (2011). Mental number line training in children with developmental dyscalculia. Neuroimage, 57(3), 782-95.",
+      "doi": "10.1016/j.neuroimage.2011.01.070",
+      "pmid": "21295145",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/21295145/",
+      "kind": "article",
+      "usedInStatistics": [
+        "interventions"
+      ]
+    },
+    {
+      "key": "haberstroh2022",
+      "citation": "Haberstroh S, Schulte-Körne G (2022). The Cognitive Profile of Math Difficulties: A Meta-Analysis Based on Clinical Criteria. Front Psychol, 13(), 842391.",
+      "doi": "10.3389/fpsyg.2022.842391",
+      "pmid": "35360597",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/35360597/",
+      "kind": "article",
+      "usedInStatistics": []
+    },
+    {
+      "key": "grosstsur1996",
+      "citation": "Gross-Tsur V, Manor O, Shalev RS (1996). Developmental dyscalculia: prevalence and demographic features. Dev Med Child Neurol, 38(1), 25-33.",
+      "doi": "10.1111/j.1469-8749.1996.tb15029.x",
+      "pmid": "8606013",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/8606013/",
+      "kind": "article",
+      "usedInStatistics": [
+        "key-figures",
+        "prevalence",
+        "sex-ratio",
+        "comorbidity"
+      ]
+    },
+    {
+      "key": "lewis1994",
+      "citation": "Lewis C, Hitch GJ, Walker P (1994). The prevalence of specific arithmetic difficulties and specific reading difficulties in 9- to 10-year-old boys and girls. J Child Psychol Psychiatry, 35(2), 283-92.",
+      "doi": "10.1111/j.1469-7610.1994.tb01162.x",
+      "pmid": "8188799",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/8188799/",
+      "kind": "article",
+      "usedInStatistics": [
+        "prevalence",
+        "sex-ratio"
+      ]
+    },
+    {
+      "key": "morsanyi2018",
+      "citation": "Morsanyi K, van Bers BMCW, McCormack T, McGourty J (2018). The prevalence of specific learning disorder in mathematics and comorbidity with other developmental disorders in primary school-age children. Br J Psychol, 109(4), 917-940.",
+      "doi": "10.1111/bjop.12322",
+      "pmid": "29974939",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/29974939/",
+      "kind": "article",
+      "usedInStatistics": [
+        "key-figures",
+        "prevalence",
+        "by-country",
+        "sex-ratio",
+        "comorbidity"
+      ]
+    },
+    {
+      "key": "landerlMoll2010",
+      "citation": "Landerl K, Moll K (2010). Comorbidity of learning disorders: prevalence and familial transmission. J Child Psychol Psychiatry, 51(3), 287-94.",
+      "doi": "10.1111/j.1469-7610.2009.02164.x",
+      "pmid": "19788550",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/19788550/",
+      "kind": "article",
+      "usedInStatistics": [
+        "sex-ratio"
+      ]
+    },
+    {
+      "key": "fortes2016",
+      "citation": "Fortes IS, Paula CS, Oliveira MC et al. (2016). A cross-sectional study to assess the prevalence of DSM-5 specific learning disorders in representative school samples from the second to sixth grade in Brazil. Eur Child Adolesc Psychiatry, 25(2), 195-207.",
+      "doi": "10.1007/s00787-015-0708-2",
+      "pmid": "25925785",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/25925785/",
+      "kind": "article",
+      "usedInStatistics": [
+        "prevalence",
+        "by-country"
+      ]
+    },
+    {
+      "key": "shalev1998",
+      "citation": "Shalev RS, Manor O, Auerbach J, Gross-Tsur V (1998). Persistence of developmental dyscalculia: what counts? Results from a 3-year prospective follow-up study. J Pediatr, 133(3), 358-62.",
+      "doi": "10.1016/s0022-3476(98)70269-0",
+      "pmid": "9738716",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/9738716/",
+      "kind": "article",
+      "usedInStatistics": [
+        "persistence"
+      ]
+    },
+    {
+      "key": "shalev2005",
+      "citation": "Shalev RS, Manor O, Gross-Tsur V (2005). Developmental dyscalculia: a prospective six-year follow-up. Dev Med Child Neurol, 47(2), 121-5.",
+      "doi": "10.1017/s0012162205000216",
+      "pmid": "15707235",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/15707235/",
+      "kind": "article",
+      "usedInStatistics": [
+        "key-figures",
+        "persistence"
+      ]
+    },
+    {
+      "key": "capano2008",
+      "citation": "Capano L, Minden D, Chen SX, Schacher RJ, Ickowicz A (2008). Mathematical learning disorder in school-age children with attention-deficit hyperactivity disorder. Can J Psychiatry, 53(6), 392-9.",
+      "doi": "10.1177/070674370805300609",
+      "pmid": "18616860",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/18616860/",
+      "kind": "article",
+      "usedInStatistics": [
+        "comorbidity"
+      ]
+    },
+    {
+      "key": "joyner2019",
+      "citation": "Joyner RE, Wagner RK (2020). Co-occurrence of reading disabilities and math disabilities: a meta-analysis. Sci Stud Read, 24(1), 14-22.",
+      "doi": "10.1080/10888438.2019.1593420",
+      "pmid": "32051676",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/32051676/",
+      "kind": "article",
+      "usedInStatistics": [
+        "comorbidity"
+      ]
+    },
+    {
+      "key": "vieira2024",
+      "citation": "Vieira APA, Peng P, Antoniuk A et al. (2024). Internalizing problems in individuals with reading, mathematics and unspecified learning difficulties: a systematic review and meta-analysis. Ann Dyslexia, 74(1), 4-26.",
+      "doi": "10.1007/s11881-023-00294-4",
+      "pmid": "38135829",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/38135829/",
+      "kind": "article",
+      "usedInStatistics": [
+        "math-anxiety"
+      ]
+    },
+    {
+      "key": "melbyLervag2013",
+      "citation": "Melby-Lervåg M, Hulme C (2013). Is working memory training effective? A meta-analytic review. Dev Psychol, 49(2), 270-91.",
+      "doi": "10.1037/a0028228",
+      "pmid": "22612437",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/22612437/",
+      "kind": "article",
+      "usedInStatistics": [
+        "interventions"
+      ]
+    },
+    {
+      "key": "douglas2026",
+      "citation": "Douglas GP, Myers JA, Mason KK, Powell SR, Lariviere DO (2026). A meta-analysis of mathematics fact fluency interventions for students with mathematics difficulties (MD). J Learn Disabil, 59(3), 135-160.",
+      "doi": "10.1177/00222194261424914",
+      "pmid": "41787952",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41787952/",
+      "kind": "article",
+      "usedInStatistics": [
+        "interventions"
+      ]
+    },
+    {
+      "key": "bishop2010",
+      "citation": "Bishop DV (2010). Which neurodevelopmental disorders get researched and why? PLoS One, 5(11), e15112.",
+      "doi": "10.1371/journal.pone.0015112",
+      "pmid": "21152085",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/21152085/",
+      "kind": "article",
+      "usedInStatistics": [
+        "official-counts"
+      ]
+    },
+    {
+      "key": "devine2018",
+      "citation": "Devine A, Hill F, Carey E, Szűcs D (2018). Cognitive and emotional math problems largely dissociate: prevalence of developmental dyscalculia and mathematics anxiety. J Educ Psychol, 110(3), 431-444.",
+      "doi": "10.1037/edu0000222",
+      "link": "https://doi.org/10.1037/edu0000222",
+      "kind": "article",
+      "usedInStatistics": [
+        "prevalence",
+        "math-anxiety"
+      ]
+    },
+    {
+      "key": "benavidesVarela2020",
+      "citation": "Benavides-Varela S, Zandonella Callegher C, Fagiolini B et al. (2020). Effectiveness of digital-based interventions for children with mathematical learning difficulties: a meta-analysis. Comput Educ, 157, 103953.",
+      "doi": "10.1016/j.compedu.2020.103953",
+      "link": "https://doi.org/10.1016/j.compedu.2020.103953",
+      "kind": "article",
+      "usedInStatistics": [
+        "interventions"
+      ]
+    },
+    {
+      "key": "insermDyscalc2007",
+      "citation": "Inserm (2007). Dyslexie, dysorthographie, dyscalculie : bilan des données scientifiques. Expertise collective, chapitre 11 : Dyscalculie et troubles de l'apprentissage de l'arithmétique. Accessed 2026-10-06.",
+      "url": "https://ipubli.inserm.fr/bitstream/handle/10608/110/Chapitre_11.html",
+      "link": "https://ipubli.inserm.fr/bitstream/handle/10608/110/Chapitre_11.html",
+      "kind": "web",
+      "usedInStatistics": [
+        "by-country",
+        "method"
+      ]
+    },
+    {
+      "key": "oecdPisaFocus48",
+      "citation": "OECD (2015). Does math make you anxious? PISA in Focus No. 48 (PISA 2012 data). Accessed 2026-10-06.",
+      "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2015/02/does-math-make-you-anxious_g17a25bf/5js6b2579tnx-en.pdf",
+      "link": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2015/02/does-math-make-you-anxious_g17a25bf/5js6b2579tnx-en.pdf",
+      "kind": "web",
+      "usedInStatistics": [
+        "math-anxiety",
+        "method"
+      ]
+    },
+    {
+      "key": "ncesDigest20430",
+      "citation": "National Center for Education Statistics (2023). Digest of Education Statistics, Table 204.30: Children 3 to 21 years old served under IDEA, Part B, by type of disability, 1976-77 through 2022-23. Accessed 2026-10-06.",
+      "url": "https://nces.ed.gov/programs/digest/d23/tables/dt23_204.30.asp",
+      "link": "https://nces.ed.gov/programs/digest/d23/tables/dt23_204.30.asp",
+      "kind": "web",
+      "usedInStatistics": [
+        "by-country",
+        "official-counts",
+        "method"
+      ]
+    },
+    {
+      "key": "dfeSen2026",
+      "citation": "Department for Education (2026). Special educational needs in England, academic year 2025/26 (type of need). Accessed 2026-10-06.",
+      "url": "https://explore-education-statistics.service.gov.uk/find-statistics/special-educational-needs-in-england",
+      "link": "https://explore-education-statistics.service.gov.uk/find-statistics/special-educational-needs-in-england",
+      "kind": "web",
+      "usedInStatistics": [
+        "by-country",
+        "official-counts",
+        "method"
+      ]
+    },
+    {
+      "key": "mefpNeae2026",
+      "citation": "Ministerio de Educación, Formación Profesional y Deportes (2026). Alumnado con necesidad específica de apoyo educativo, curso 2024-2025 (nota de prensa, 30/04/2026). Accessed 2026-10-06.",
+      "url": "https://www.educacionfpydeportes.gob.es/prensa/actualidad/2026/04/20260430-apoyoeducativo.html",
+      "link": "https://www.educacionfpydeportes.gob.es/prensa/actualidad/2026/04/20260430-apoyoeducativo.html",
+      "kind": "web",
+      "usedInStatistics": [
+        "by-country",
+        "official-counts",
+        "method"
+      ]
+    },
+    {
+      "key": "bdaAssessmentCosts",
+      "citation": "British Dyslexia Association. Types of assessments and costs (dyscalculia assessment by specialist teacher; NHS funding). Accessed 2026-10-06.",
+      "url": "https://www.bdadyslexia.org.uk/services/assessments/diagnostic-assessments-2/types-of-assessments",
+      "link": "https://www.bdadyslexia.org.uk/services/assessments/diagnostic-assessments-2/types-of-assessments",
+      "kind": "web",
+      "usedInStatistics": []
+    },
+    {
+      "key": "helenArkellDyscalculiaTopUp",
+      "citation": "Helen Arkell Dyslexia Charity. Top-up maths difficulties and dyscalculia assessment by specialist assessor for primary school age. Accessed 2026-10-06.",
+      "url": "https://bookings.helenarkell.org.uk/services/show/maths-difficulties-and-dyscalculia-top-up-assessment-by-specialist-assessor-for-primary-school-age-7",
+      "link": "https://bookings.helenarkell.org.uk/services/show/maths-difficulties-and-dyscalculia-top-up-assessment-by-specialist-assessor-for-primary-school-age-7",
+      "kind": "web",
+      "usedInStatistics": []
+    },
+    {
+      "key": "edinburghPracticeEpFees",
+      "citation": "The Edinburgh Practice. Educational and cognitive assessments (educational psychologist fees). Accessed 2026-10-06.",
+      "url": "https://edinburghpractice.com/service/educational-cognitive-assessments/",
+      "link": "https://edinburghpractice.com/service/educational-cognitive-assessments/",
+      "kind": "web",
+      "usedInStatistics": []
+    },
+    {
+      "key": "govUkEhcTimeline",
+      "citation": "GOV.UK. Children with special educational needs and disabilities (SEND): Extra help (EHC needs assessment). Accessed 2026-10-06.",
+      "url": "https://www.gov.uk/children-with-special-educational-needs/extra-SEN-help",
+      "link": "https://www.gov.uk/children-with-special-educational-needs/extra-SEN-help",
+      "kind": "web",
+      "usedInStatistics": []
+    },
+    {
+      "key": "govUkDsaEligibility",
+      "citation": "GOV.UK. Disabled Students' Allowance: Eligibility (diagnostic assessment for specific learning difficulties). Accessed 2026-10-06.",
+      "url": "https://www.gov.uk/disabled-students-allowance-dsa/eligibility",
+      "link": "https://www.gov.uk/disabled-students-allowance-dsa/eligibility",
+      "kind": "web",
+      "usedInStatistics": []
+    },
+    {
+      "key": "idea300301",
+      "citation": "34 CFR § 300.301 — Determinants of initial evaluation (60 days from parental consent or the state's timeframe). Cornell LII. Accessed 2026-10-06.",
+      "url": "https://www.law.cornell.edu/cfr/text/34/300.301",
+      "link": "https://www.law.cornell.edu/cfr/text/34/300.301",
+      "kind": "web",
+      "usedInStatistics": []
+    },
+    {
+      "key": "idea300309",
+      "citation": "34 CFR § 300.309 — Determining the existence of a specific learning disability (includes mathematics calculation and problem solving). Cornell LII. Accessed 2026-10-06.",
+      "url": "https://www.law.cornell.edu/cfr/text/34/300.309",
+      "link": "https://www.law.cornell.edu/cfr/text/34/300.309",
+      "kind": "web",
+      "usedInStatistics": []
+    },
+    {
+      "key": "idea300502",
+      "citation": "34 CFR § 300.502 — Independent educational evaluation at public expense. Cornell LII. Accessed 2026-10-06.",
+      "url": "https://www.law.cornell.edu/cfr/text/34/300.502",
+      "link": "https://www.law.cornell.edu/cfr/text/34/300.502",
+      "kind": "web",
+      "usedInStatistics": []
+    },
+    {
+      "key": "dyscalculiaServicesFees",
+      "citation": "Math and Dyscalculia Services. Assessment (fees and insurance). Accessed 2026-10-06.",
+      "url": "https://dyscalculiaservices.com/services/assessment/",
+      "link": "https://dyscalculiaservices.com/services/assessment/",
+      "kind": "web",
+      "usedInStatistics": []
+    },
+    {
+      "key": "ugaPsychEvalFee",
+      "citation": "University of Georgia College of Education. Psychological evaluations (fee for a full psychoeducational evaluation). Accessed 2026-10-06.",
+      "url": "https://coe.uga.edu/outreach/programs/psychological-evaluations/",
+      "link": "https://coe.uga.edu/outreach/programs/psychological-evaluations/",
+      "kind": "web",
+      "usedInStatistics": []
+    },
+    {
+      "key": "bvlRatgeberDyskalkulie",
+      "citation": "Bundesverband Legasthenie und Dyskalkulie e.V. Ratgeber zum Thema Dyskalkulie (6. Auflage 2018), PDF. Accessed 2026-10-06.",
+      "url": "https://www.bvl-legasthenie.de/images/static/pdfs/bvl/2_Dyskalkulie_2018_web.pdf",
+      "link": "https://www.bvl-legasthenie.de/images/static/pdfs/bvl/2_Dyskalkulie_2018_web.pdf",
+      "kind": "web",
+      "usedInStatistics": []
+    },
+    {
+      "key": "koelnerAkDiagnose",
+      "citation": "Kölner Arbeitskreis LRS & Dyskalkulie für NRW e.V. Feststellung / Diagnose. Accessed 2026-10-06.",
+      "url": "https://www.lrs.koeln/dyskalkulie/feststellung-diagnose/",
+      "link": "https://www.lrs.koeln/dyskalkulie/feststellung-diagnose/",
+      "kind": "web",
+      "usedInStatistics": []
+    },
+    {
+      "key": "progressumDyskalkulie",
+      "citation": "Institut Progressum (Kassel). Dyskalkulie im Kindes- und Jugendalter (Kosten der Diagnostik nach GOÄ). Accessed 2026-10-06.",
+      "url": "https://institut-progressum.de/dyskalkulie-im-kindes-und-jugendalter/",
+      "link": "https://institut-progressum.de/dyskalkulie-im-kindes-und-jugendalter/",
+      "kind": "web",
+      "usedInStatistics": []
+    },
+    {
+      "key": "lsrKielKosten",
+      "citation": "Lesen Schreiben Rechnen e.V. (Kiel). Diagnostik: Kosten. Accessed 2026-10-06.",
+      "url": "https://www.lesen-schreiben-rechnen.de/diagnostik/kosten/",
+      "link": "https://www.lesen-schreiben-rechnen.de/diagnostik/kosten/",
+      "kind": "web",
+      "usedInStatistics": []
+    },
+    {
+      "key": "bvlKostenuebernahme",
+      "citation": "Bundesverband Legasthenie und Dyskalkulie e.V. Dyskalkulie: Kostenübernahme Therapie. Accessed 2026-10-06.",
+      "url": "https://www.bvl-legasthenie.de/dyskalkulie/kostenuebernahme-therapie.html",
+      "link": "https://www.bvl-legasthenie.de/dyskalkulie/kostenuebernahme-therapie.html",
+      "kind": "web",
+      "usedInStatistics": []
+    },
+    {
+      "key": "sgb8Para35a",
+      "citation": "§ 35a SGB VIII — Eingliederungshilfe für Kinder und Jugendliche mit seelischer Behinderung. Gesetze im Internet. Accessed 2026-10-06.",
+      "url": "https://www.gesetze-im-internet.de/sgb_8/__35a.html",
+      "link": "https://www.gesetze-im-internet.de/sgb_8/__35a.html",
+      "kind": "web",
+      "usedInStatistics": []
+    },
+    {
+      "key": "bmbSchulpsychologie",
+      "citation": "Bundesministerium für Bildung (Österreich). Schulpsychologie-Bildungsberatung. Accessed 2026-10-06.",
+      "url": "https://www.bmb.gv.at/schulpsychologie-bildungsberatung",
+      "link": "https://www.bmb.gv.at/schulpsychologie-bildungsberatung",
+      "kind": "web",
+      "usedInStatistics": []
+    },
+    {
+      "key": "oegkKlinPsychDiagnostik",
+      "citation": "Österreichische Gesundheitskasse. Klinisch-psychologische Diagnostik. Accessed 2026-10-06.",
+      "url": "https://www.oegk.at/cdscontent/?contentid=10007.870510&portal=oegkportal",
+      "link": "https://www.oegk.at/cdscontent/?contentid=10007.870510&portal=oegkportal",
+      "kind": "web",
+      "usedInStatistics": []
+    },
+    {
+      "key": "braderLrsDyskalkulie",
+      "citation": "Psychologie Brader (St. Pölten, Wien). LRS-, Legasthenie- und Dyskalkulie-Test. Accessed 2026-10-06.",
+      "url": "https://www.psychologiebrader.at/diagnostik-kinder-jugendliche/lrs-dyskalkulie",
+      "link": "https://www.psychologiebrader.at/diagnostik-kinder-jugendliche/lrs-dyskalkulie",
+      "kind": "web",
+      "usedInStatistics": []
+    },
+    {
+      "key": "zhSchulpsychologie",
+      "citation": "Kanton Zürich, Bildungsdirektion. Schulpsychologie. Accessed 2026-10-06.",
+      "url": "https://www.zh.ch/de/bildung/schulen/volksschule/volksschule-besonderer-bildungsbedarf/schulpsychologie.html",
+      "link": "https://www.zh.ch/de/bildung/schulen/volksschule/volksschule-besonderer-bildungsbedarf/schulpsychologie.html",
+      "kind": "web",
+      "usedInStatistics": []
+    },
+    {
+      "key": "lernpraxisZhDyskalkulie",
+      "citation": "Lernpraxis Zürich. Dyskalkulie: Abklärung und Beratung (Kosten). Accessed 2026-10-06.",
+      "url": "https://www.lernpraxis.ch/abklaerungen/dyskalkulie/",
+      "link": "https://www.lernpraxis.ch/abklaerungen/dyskalkulie/",
+      "kind": "web",
+      "usedInStatistics": []
+    },
+    {
+      "key": "kispiDyskalkulieFlyer",
+      "citation": "Universitäts-Kinderspital Zürich. Ablauf der Dyskalkulie-Abklärung (Flyer), PDF. Accessed 2026-10-06.",
+      "url": "https://www.kispi.uzh.ch/sites/default/files/2023-03/Flyer_Ablauf_Dyskalkulie-Abkl%C3%A4rung.pdf",
+      "link": "https://www.kispi.uzh.ch/sites/default/files/2023-03/Flyer_Ablauf_Dyskalkulie-Abkl%C3%A4rung.pdf",
+      "kind": "web",
+      "usedInStatistics": []
+    },
+    {
+      "key": "fofTarifs2026",
+      "citation": "Fédération des Orthophonistes de France. Tarifs au 23 février 2026 (NGAP), PDF. Accessed 2026-10-06.",
+      "url": "https://federation-des-orthophonistes-de-france.fr/wp-content/uploads/SITE-_-Tarifs-2026.pdf",
+      "link": "https://federation-des-orthophonistes-de-france.fr/wp-content/uploads/SITE-_-Tarifs-2026.pdf",
+      "kind": "web",
+      "usedInStatistics": []
+    },
+    {
+      "key": "ag2rOrthophonieRemboursement",
+      "citation": "AG2R La Mondiale. Quel remboursement de l'orthophonie par la Sécurité sociale et la mutuelle. Accessed 2026-10-06.",
+      "url": "https://www.ag2rlamondiale.fr/mutuelle-sante/conseil-quel-remboursement-de-l-orthophonie-par-la-sante",
+      "link": "https://www.ag2rlamondiale.fr/mutuelle-sante/conseil-quel-remboursement-de-l-orthophonie-par-la-sante",
+      "kind": "web",
+      "usedInStatistics": []
+    },
+    {
+      "key": "monParcoursHandicapForfaitTnd",
+      "citation": "Mon Parcours Handicap (gouv.fr). Troubles du neurodéveloppement, autisme : le forfait d'intervention précoce. Accessed 2026-10-06.",
+      "url": "https://www.monparcourshandicap.gouv.fr/aides/troubles-du-neurodeveloppement-autisme-le-forfait-dintervention-precoce",
+      "link": "https://www.monparcourshandicap.gouv.fr/aides/troubles-du-neurodeveloppement-autisme-le-forfait-dintervention-precoce",
+      "kind": "web",
+      "usedInStatistics": []
+    },
+    {
+      "key": "pedagopsyBilans",
+      "citation": "Pédagopsy (Paris 17e). Nos bilans (bilan neuropsychologique, tarif). Accessed 2026-10-06.",
+      "url": "https://www.pedagopsy.net/nosbilans",
+      "link": "https://www.pedagopsy.net/nosbilans",
+      "kind": "web",
+      "usedInStatistics": []
+    },
+    {
+      "key": "senatQ25070656",
+      "citation": "Sénat. Question écrite n° 25070656 : numerus clausus de la formation à la profession d'orthophoniste (2025). Accessed 2026-10-06.",
+      "url": "https://www.senat.fr/questions/base/2025/qSEQ25070656S.html",
+      "link": "https://www.senat.fr/questions/base/2025/qSEQ25070656S.html",
+      "kind": "web",
+      "usedInStatistics": []
+    },
+    {
+      "key": "inamiTarifLogo2026",
+      "citation": "INAMI. Tarifs logopédie au 01-01-2026 (circulaire OA 2025/350), PDF. Accessed 2026-10-06.",
+      "url": "https://www.inami.fgov.be/SiteCollectionDocuments/tarif_logopedes_20260101.pdf",
+      "link": "https://www.inami.fgov.be/SiteCollectionDocuments/tarif_logopedes_20260101.pdf",
+      "kind": "web",
+      "usedInStatistics": []
+    },
+    {
+      "key": "rizivTariefLogo2026",
+      "citation": "RIZIV. Tarieven logopedie op 01-01-2026, PDF. Accessed 2026-10-06.",
+      "url": "https://www.riziv.fgov.be/SiteCollectionDocuments/tarief_logopedisten_20260101.pdf",
+      "link": "https://www.riziv.fgov.be/SiteCollectionDocuments/tarief_logopedisten_20260101.pdf",
+      "kind": "web",
+      "usedInStatistics": []
+    },
+    {
+      "key": "inamiNomenclatureArt36",
+      "citation": "INAMI. Nomenclature des prestations de santé, article 36 (logopédie), coordination officieuse. Accessed 2026-10-06.",
+      "url": "https://webappsa.riziv-inami.fgov.be/Nomen/fr/725351/pdf/19081",
+      "link": "https://webappsa.riziv-inami.fgov.be/Nomen/fr/725351/pdf/19081",
+      "kind": "web",
+      "usedInStatistics": []
+    },
+    {
+      "key": "ar20240604Logopedie",
+      "citation": "Arrêté royal du 4 juin 2024 modifiant l'article 36 de l'annexe à l'arrêté royal du 14 septembre 1984 (Moniteur belge, via etaamb). Accessed 2026-10-06.",
+      "url": "https://etaamb.openjustice.be/fr/arrete-royal-du-04-juin-2024_n2024005656.html",
+      "link": "https://etaamb.openjustice.be/fr/arrete-royal-du-04-juin-2024_n2024005656.html",
+      "kind": "web",
+      "usedInStatistics": []
+    },
+    {
+      "key": "enseignementBeCentresPms",
+      "citation": "Fédération Wallonie-Bruxelles. Centres PMS : accompagnement scolaire gratuit. Accessed 2026-10-06.",
+      "url": "https://www.enseignement.be/soutien-a-lapprentissage/climat-scolaire-bien-etre-et-sante/qui-peut-vous-aider/centres-pms",
+      "link": "https://www.enseignement.be/soutien-a-lapprentissage/climat-scolaire-bien-etre-et-sante/qui-peut-vous-aider/centres-pms",
+      "kind": "web",
+      "usedInStatistics": []
+    },
+    {
+      "key": "vrijClbGratis",
+      "citation": "Vrij CLB Netwerk. Gratis informatie, advies en begeleiding. Accessed 2026-10-06.",
+      "url": "https://www.vrijclb.be/werking-clb/gratis-informatie-advies-en-begeleiding",
+      "link": "https://www.vrijclb.be/werking-clb/gratis-informatie-advies-en-begeleiding",
+      "kind": "web",
+      "usedInStatistics": []
+    },
+    {
+      "key": "unigeLogoTarifs",
+      "citation": "Université de Genève, Consultation en logopédie. Tarifs des consultations enfants et adolescent·es. Accessed 2026-10-06.",
+      "url": "https://www.unige.ch/fapse/consultation-en-logopedie/tarifs/tarifs-des-consultations-enfants-adolescents",
+      "link": "https://www.unige.ch/fapse/consultation-en-logopedie/tarifs/tarifs-des-consultations-enfants-adolescents",
+      "kind": "web",
+      "usedInStatistics": []
+    },
+    {
+      "key": "lausannePpls",
+      "citation": "Ville de Lausanne. Psychologie, psychomotricité et logopédie en milieu scolaire (PPLS). Accessed 2026-10-06.",
+      "url": "https://www.lausanne.ch/prestations/psychologie-scolaire/psychologie-scolaire-en-milieu-scolaire.html",
+      "link": "https://www.lausanne.ch/prestations/psychologie-scolaire/psychologie-scolaire-en-milieu-scolaire.html",
+      "kind": "web",
+      "usedInStatistics": []
+    },
+    {
+      "key": "impulsWoortblindDyscalculie",
+      "citation": "Vereniging Impuls & Woortblind. Heb ik dyscalculie? (onderzoek en vergoeding). Accessed 2026-10-06.",
+      "url": "https://www.impulsenwoortblind.nl/dyscalculie/heb-ik-dyscalculie",
+      "link": "https://www.impulsenwoortblind.nl/dyscalculie/heb-ik-dyscalculie",
+      "kind": "web",
+      "usedInStatistics": []
+    },
+    {
+      "key": "cedinOnderzoekDyscalculie",
+      "citation": "Cedin. Onderzoek naar dyscalculie. Accessed 2026-10-06.",
+      "url": "https://cedinonderwijs.nl/onderzoek-naar-dyscalculie/",
+      "link": "https://cedinonderwijs.nl/onderzoek-naar-dyscalculie/",
+      "kind": "web",
+      "usedInStatistics": []
+    },
+    {
+      "key": "uniekDyscalculieTarief",
+      "citation": "Uniek Kind- en jeugdpraktijken. Vergoeding dyslexie en dyscalculie (tarief dyscalculie-onderzoek). Accessed 2026-10-06.",
+      "url": "https://www.uniekpraktijken.nl/behandelingen/dyslexie-dyscalculie/vergoeding-dyslexie-dyscalculie/",
+      "link": "https://www.uniekpraktijken.nl/behandelingen/dyslexie-dyscalculie/vergoeding-dyslexie-dyscalculie/",
+      "kind": "web",
+      "usedInStatistics": []
+    },
+    {
+      "key": "regelhulpDyslexie",
+      "citation": "Regelhulp (Rijksoverheid). Leerproblemen zoals dyslexie. Accessed 2026-10-06.",
+      "url": "https://www.regelhulp.nl/onderwerpen/onderwijs-en-zorg/leerproblemen-dyslexie",
+      "link": "https://www.regelhulp.nl/onderwerpen/onderwijs-en-zorg/leerproblemen-dyslexie",
+      "kind": "web",
+      "usedInStatistics": []
+    },
+    {
+      "key": "loeArt79bis",
+      "citation": "Ley Orgánica 2/2006, de 3 de mayo, de Educación, artículo 79 bis (texto consolidado). BOE. Accessed 2026-10-06.",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-7899",
+      "link": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-7899",
+      "kind": "web",
+      "usedInStatistics": []
+    },
+    {
+      "key": "defensorPuebloPlazosEoep",
+      "citation": "Defensor del Pueblo. Procedimientos y plazos de actuación de los equipos de orientación educativa y psicopedagógica (resolución). Accessed 2026-10-06.",
+      "url": "https://www.defensordelpueblo.es/resoluciones/denuncia-la-tardanza-con-que-se-atendieron-las-necesidades-educativas-especiales-de-su-hijo-2/",
+      "link": "https://www.defensordelpueblo.es/resoluciones/denuncia-la-tardanza-con-que-se-atendieron-las-necesidades-educativas-especiales-de-su-hijo-2/",
+      "kind": "web",
+      "usedInStatistics": []
+    },
+    {
+      "key": "nepsinTarifas",
+      "citation": "NEPSIN (Madrid). Tarifas: evaluación neuropsicológica. Accessed 2026-10-06.",
+      "url": "https://nepsin.es/tarifas/",
+      "link": "https://nepsin.es/tarifas/",
+      "kind": "web",
+      "usedInStatistics": []
+    },
+    {
+      "key": "nepsinEvaluacionInfantil",
+      "citation": "NEPSIN (Madrid). Evaluación neuropsicológica infantil. Accessed 2026-10-06.",
+      "url": "https://nepsin.es/evaluacion-infantil/",
+      "link": "https://nepsin.es/evaluacion-infantil/",
+      "kind": "web",
+      "usedInStatistics": []
+    },
+    {
+      "key": "psicopedagogiaMadridTarifas",
+      "citation": "Psicopedagogía Madrid. Nuestras tarifas (evaluación psicopedagógica completa). Accessed 2026-10-06.",
+      "url": "https://psicopedagogiamadrid.com/nuestras-tarifas",
+      "link": "https://psicopedagogiamadrid.com/nuestras-tarifas",
+      "kind": "web",
+      "usedInStatistics": []
+    },
+    {
+      "key": "usaerYucatan",
+      "citation": "Secretaría de Educación del Gobierno del Estado de Yucatán. Manual de operatividad del Servicio de Apoyo de Educación Especial (USAER), PDF. Accessed 2026-10-06.",
+      "url": "https://educacion.yucatan.gob.mx/multimedia/publicaciones/220121_Manual_USAER.pdf",
+      "link": "https://educacion.yucatan.gob.mx/multimedia/publicaciones/220121_Manual_USAER.pdf",
+      "kind": "web",
+      "usedInStatistics": []
+    },
+    {
+      "key": "doctoraliaCdmxNeuropsi",
+      "citation": "Doctoralia México. Evaluación neuropsicológica infantil en Ciudad de México (precios publicados por los especialistas, consultado el 2026-10-06). Accessed 2026-10-06.",
+      "url": "https://www.doctoralia.com.mx/tratamientos-servicios/evaluacion-neuropsicologica-infantil/ciudad-de-mexico",
+      "link": "https://www.doctoralia.com.mx/tratamientos-servicios/evaluacion-neuropsicologica-infantil/ciudad-de-mexico",
+      "kind": "web",
+      "usedInStatistics": []
+    },
+    {
+      "key": "lei14254",
+      "citation": "Presidência da República. Lei nº 14.254, de 30 de novembro de 2021 (acompanhamento integral para educandos com dislexia, TDAH ou outro transtorno de aprendizagem). Accessed 2026-10-06.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14254.htm",
+      "link": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14254.htm",
+      "kind": "web",
+      "usedInStatistics": []
+    },
+    {
+      "key": "conjurStjNeuropsi",
+      "citation": "Consultor Jurídico (2020). Plano de saúde deve pagar por avaliação neuropsicológica, diz STJ (REsp 1.876.786). Accessed 2026-10-06.",
+      "url": "https://conjur.com.br/2020-nov-12/plano-saude-pagar-avaliacao-neuropsicologica-stj/",
+      "link": "https://conjur.com.br/2020-nov-12/plano-saude-pagar-avaliacao-neuropsicologica-stj/",
+      "kind": "web",
+      "usedInStatistics": []
+    },
+    {
+      "key": "cfpFenapsiHonorarios2025",
+      "citation": "Conselho Federal de Psicologia / Fenapsi / DIEESE. Tabela de Referência Nacional de Honorários dos Psicólogos (vigência 1º de julho de 2025), PDF. Accessed 2026-10-06.",
+      "url": "https://site.cfp.org.br/wp-content/uploads/2025/12/3699.1___ANEXO_REF_AO_OFICIO_N__009_20225___FENAPSI.pdf",
+      "link": "https://site.cfp.org.br/wp-content/uploads/2025/12/3699.1___ANEXO_REF_AO_OFICIO_N__009_20225___FENAPSI.pdf",
+      "kind": "web",
+      "usedInStatistics": []
+    },
+    {
+      "key": "kosc1974",
+      "citation": "Kosc L (1974). Developmental dyscalculia. J Learn Disabil, 7(3), 164-177.",
+      "doi": "10.1177/002221947400700309",
+      "link": "https://doi.org/10.1177/002221947400700309",
+      "kind": "article",
+      "usedInStatistics": []
+    },
+    {
+      "key": "icd10",
+      "citation": "World Health Organization. ICD-10 (2019), F81.2 Specific disorder of arithmetical skills.",
+      "url": "https://icd.who.int/browse10/2019/en#/F81.2",
+      "link": "https://icd.who.int/browse10/2019/en#/F81.2",
+      "kind": "web",
+      "usedInStatistics": []
+    },
+    {
+      "key": "icd11",
+      "citation": "World Health Organization. ICD-11 for Mortality and Morbidity Statistics, 6A03.2 Developmental learning disorder with impairment in mathematics.",
+      "url": "https://icd.who.int/browse/2024-01/mms/en",
+      "link": "https://icd.who.int/browse/2024-01/mms/en",
+      "kind": "web",
+      "usedInStatistics": []
+    }
+  ]
+}

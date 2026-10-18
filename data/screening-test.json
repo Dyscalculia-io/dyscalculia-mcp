@@ -1,0 +1,156 @@
+{
+  "name": "Dyscalculia.io free dyscalculia screening test: items and scoring",
+  "page": "https://dyscalculia.io/methodology",
+  "snapshot": "2026-10-18",
+  "license": {
+    "name": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "note": "The licence covers the compilation (text, tables, charts); each figure belongs to the source cited with it."
+  },
+  "methodology": {
+    "url": "https://dyscalculia.io/methodology",
+    "lastChanged": "2026-10-06",
+    "revisions": 1,
+    "testUnchangedSince": "2026-09-29",
+    "changelog": "https://dyscalculia.io/data/changelog.json"
+  },
+  "notADiagnosis": "A screening of basic number skills. It does not diagnose dyscalculia and does not rule it out.",
+  "test": {
+    "totalItems": 21,
+    "order": "fixed, the same for everyone",
+    "timeLimitPerAnswer": null,
+    "timesEnterScore": false,
+    "sameAsApp": "Dyscalculia: Numeracy & Math (Android): same items, order and scoring",
+    "ageGroup": {
+      "options": [
+        "child46",
+        "child79",
+        "child1012",
+        "teen",
+        "adult"
+      ],
+      "changesItemsOrScoring": false,
+      "use": "chooses the starting world of the practice program"
+    },
+    "games": [
+      {
+        "key": "dotEnumeration",
+        "name": "Count the Dots",
+        "skill": "Subitizing",
+        "items": 5,
+        "dotCounts": [
+          3,
+          6,
+          2,
+          8,
+          4
+        ],
+        "answerButtons": "1-9",
+        "itemScore": "1 if correct, else 0",
+        "gameScore": "mean of item scores (0-1)"
+      },
+      {
+        "key": "symbolicCompare",
+        "name": "Which is Bigger?",
+        "skill": "Comparison",
+        "items": 5,
+        "pairs": [
+          [
+            4,
+            9
+          ],
+          [
+            7,
+            8
+          ],
+          [
+            12,
+            7
+          ],
+          [
+            45,
+            53
+          ],
+          [
+            67,
+            31
+          ]
+        ],
+        "task": "tap the larger number",
+        "itemScore": "1 if correct, else 0",
+        "gameScore": "mean of item scores (0-1)"
+      },
+      {
+        "key": "nonSymbolicCompare",
+        "name": "Which Group Has More?",
+        "skill": "Approximate Number",
+        "items": 5,
+        "dotPairs": [
+          [
+            3,
+            7
+          ],
+          [
+            8,
+            9
+          ],
+          [
+            12,
+            7
+          ],
+          [
+            15,
+            23
+          ],
+          [
+            18,
+            22
+          ]
+        ],
+        "task": "tap the larger group without counting",
+        "itemScore": "1 if correct, else 0",
+        "gameScore": "mean of item scores (0-1)"
+      },
+      {
+        "key": "numberLine",
+        "name": "Place the Number",
+        "skill": "Number Line",
+        "items": 3,
+        "targets": [
+          25,
+          67,
+          41
+        ],
+        "scale": [
+          0,
+          100
+        ],
+        "sliderStart": 50,
+        "itemScore": "1 - |answer - target| / 100",
+        "gameScore": "mean of item scores (0-1)"
+      },
+      {
+        "key": "digitSpan",
+        "name": "Remember the Digits",
+        "skill": "Working Memory",
+        "items": 3,
+        "sequenceLengths": [
+          3,
+          4,
+          5
+        ],
+        "digitShownSeconds": 1.4,
+        "gapSeconds": 0.4,
+        "itemScore": "1 if the whole sequence is repeated in order, else 0",
+        "gameScore": "mean of item scores (0-1)"
+      }
+    ]
+  },
+  "limits": {
+    "norms": null,
+    "percentiles": null,
+    "accuracyStudy": null,
+    "note": "The test has no norm sample, no percentiles and no published accuracy study. It is a screening of basic number skills. It does not diagnose dyscalculia and does not rule it out."
+  },
+  "dataOnly": "Items and scoring rules as published on the methodology page. This file scores no one and interprets nothing."
+}

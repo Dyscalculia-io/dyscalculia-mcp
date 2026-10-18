@@ -1,0 +1,54 @@
+{
+  "name": "dyscalculia-mcp",
+  "version": "0.1.0",
+  "mcpName": "io.github.Dyscalculia-io/dyscalculia",
+  "description": "MCP server for Dyscalculia.io: sourced dyscalculia prevalence figures with sample size, year, age and reference, the reference list with DOIs, the chart and table datasets, and a description of the five number-skill screening games. Read-only.",
+  "type": "module",
+  "bin": {
+    "dyscalculia-mcp": "dist/stdio.js"
+  },
+  "main": "./dist/server.js",
+  "scripts": {
+    "sync": "node scripts/sync-data.mjs",
+    "build": "npm run sync && tsc",
+    "start": "node dist/stdio.js",
+    "start:http": "node dist/http.js",
+    "test": "npm run build && node scripts/test.mjs",
+    "prepublishOnly": "npm run build"
+  },
+  "files": [
+    "dist",
+    "data"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dyscalculia-io/dyscalculia-mcp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Dyscalculia-io/dyscalculia-mcp/issues"
+  },
+  "homepage": "https://dyscalculia.io/dyscalculia-statistics",
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "dyscalculia",
+    "statistics",
+    "prevalence",
+    "learning-disability",
+    "mathematics",
+    "education",
+    "research"
+  ],
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.1",
+    "zod": "^3.25.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "typescript": "^5.6.0"
+  },
+  "license": "MIT"
+}

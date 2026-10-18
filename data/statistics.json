@@ -1,0 +1,1839 @@
+{
+  "name": "Dyscalculia statistics 2026: how common is dyscalculia?",
+  "page": "https://dyscalculia.io/dyscalculia-statistics",
+  "updated": "2026-10-06",
+  "inLanguage": "en",
+  "license": {
+    "name": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "note": "The licence covers the compilation (text, tables, charts); each figure belongs to the source cited with it."
+  },
+  "methodology": {
+    "url": "https://dyscalculia.io/methodology",
+    "lastChanged": "2026-10-06",
+    "revisions": 1,
+    "testUnchangedSince": "2026-09-29",
+    "changelog": "https://dyscalculia.io/data/changelog.json"
+  },
+  "columns": [
+    "section",
+    "type",
+    "title",
+    "row",
+    "column",
+    "value",
+    "numeric_value",
+    "note",
+    "data_year",
+    "source",
+    "source_url"
+  ],
+  "rows": [
+    {
+      "section": "At a glance",
+      "type": "key_figure",
+      "title": "",
+      "row": "of school-age children have dyscalculia (review of population studies)",
+      "column": "",
+      "value": "3–6%",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "2000",
+      "source": "Shalev RS, Auerbach J, Manor O et al. (2000). Developmental dyscalculia: prevalence and prognosis. Eur Child Adolesc Psychiatry, 9 Suppl 2(), II58-64.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/11138905/"
+    },
+    {
+      "section": "At a glance",
+      "type": "key_figure",
+      "title": "",
+      "row": "of 3,029 children in an Israeli population study",
+      "column": "",
+      "value": "6.5%",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "1996",
+      "source": "Gross-Tsur V, Manor O, Shalev RS (1996). Developmental dyscalculia: prevalence and demographic features. Dev Med Child Neurol, 38(1), 25-33.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/8606013/"
+    },
+    {
+      "section": "At a glance",
+      "type": "key_figure",
+      "title": "",
+      "row": "of 2,421 UK primary school children had a dyscalculia profile",
+      "column": "",
+      "value": "5.7%",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "2018",
+      "source": "Morsanyi K, van Bers BMCW, McCormack T, McGourty J (2018). The prevalence of specific learning disorder in mathematics and comorbidity with other developmental disorders in primary school-age children. Br J Psychol, 109(4), 917-940.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/29974939/"
+    },
+    {
+      "section": "At a glance",
+      "type": "key_figure",
+      "title": "",
+      "row": "were still in the lowest quarter for arithmetic six years later",
+      "column": "",
+      "value": "95%",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "2005",
+      "source": "Shalev RS, Manor O, Gross-Tsur V (2005). Developmental dyscalculia: a prospective six-year follow-up. Dev Med Child Neurol, 47(2), 121-5.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/15707235/"
+    },
+    {
+      "section": "At a glance",
+      "type": "key_figure",
+      "title": "",
+      "row": "higher odds of also having dyslexia",
+      "column": "",
+      "value": "OR 12.25",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "2019",
+      "source": "Haberstroh S, Schulte-Körne G (2019). The Diagnosis and Treatment of Dyscalculia. Dtsch Arztebl Int, 116(7), 107-114.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/30905334/"
+    },
+    {
+      "section": "At a glance",
+      "type": "key_figure",
+      "title": "",
+      "row": "average effect size of targeted maths interventions",
+      "column": "",
+      "value": "0.52",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "2019",
+      "source": "Haberstroh S, Schulte-Körne G (2019). The Diagnosis and Treatment of Dyscalculia. Dtsch Arztebl Int, 116(7), 107-114.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/30905334/"
+    },
+    {
+      "section": "How common is dyscalculia?",
+      "type": "chart",
+      "title": "Dyscalculia prevalence in population studies",
+      "row": "Israel, age 11",
+      "column": "Prevalence",
+      "value": "6.5%",
+      "numeric_value": 6.5,
+      "note": "N = 3,029, published 1996",
+      "data_year": "",
+      "source": "Gross-Tsur V, Manor O, Shalev RS (1996). Developmental dyscalculia: prevalence and demographic features. Dev Med Child Neurol, 38(1), 25-33.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/8606013/"
+    },
+    {
+      "section": "How common is dyscalculia?",
+      "type": "chart",
+      "title": "Dyscalculia prevalence in population studies",
+      "row": "Brazil, grades 2–6",
+      "column": "Prevalence",
+      "value": "6.0%",
+      "numeric_value": 6,
+      "note": "arithmetic impairment, N = 1,618, 2016",
+      "data_year": "",
+      "source": "Fortes IS, Paula CS, Oliveira MC et al. (2016). A cross-sectional study to assess the prevalence of DSM-5 specific learning disorders in representative school samples from the second to sixth grade in Brazil. Eur Child Adolesc Psychiatry, 25(2), 195-207.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/25925785/"
+    },
+    {
+      "section": "How common is dyscalculia?",
+      "type": "chart",
+      "title": "Dyscalculia prevalence in population studies",
+      "row": "UK, primary school",
+      "column": "Prevalence",
+      "value": "5.7%",
+      "numeric_value": 5.7,
+      "note": "DSM-5 criteria, N = 2,421, 2018",
+      "data_year": "",
+      "source": "Morsanyi K, van Bers BMCW, McCormack T, McGourty J (2018). The prevalence of specific learning disorder in mathematics and comorbidity with other developmental disorders in primary school-age children. Br J Psychol, 109(4), 917-940.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/29974939/"
+    },
+    {
+      "section": "How common is dyscalculia?",
+      "type": "chart",
+      "title": "Dyscalculia prevalence in population studies",
+      "row": "England, ages 8–9 and 12–13",
+      "column": "Prevalence",
+      "value": "5.6%",
+      "numeric_value": 5.6,
+      "note": "N = 1,757, 2018",
+      "data_year": "",
+      "source": "Devine A, Hill F, Carey E, Szűcs D (2018). Cognitive and emotional math problems largely dissociate: prevalence of developmental dyscalculia and mathematics anxiety. J Educ Psychol, 110(3), 431-444.",
+      "source_url": "https://doi.org/10.1037/edu0000222"
+    },
+    {
+      "section": "How common is dyscalculia?",
+      "type": "chart",
+      "title": "Dyscalculia prevalence in population studies",
+      "row": "UK, ages 9–10",
+      "column": "Prevalence",
+      "value": "3.6%",
+      "numeric_value": 3.6,
+      "note": "1.3% arithmetic only + 2.3% with reading, N = 1,206, 1994",
+      "data_year": "",
+      "source": "Lewis C, Hitch GJ, Walker P (1994). The prevalence of specific arithmetic difficulties and specific reading difficulties in 9- to 10-year-old boys and girls. J Child Psychol Psychiatry, 35(2), 283-92.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/8188799/"
+    },
+    {
+      "section": "Dyscalculia statistics by country",
+      "type": "table",
+      "title": "Dyscalculia by country: research estimates and official counts, each with its year",
+      "row": "United States",
+      "column": "Prevalence estimate",
+      "value": "No national prevalence study found",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "National Center for Education Statistics (2023). Digest of Education Statistics, Table 204.30: Children 3 to 21 years old served under IDEA, Part B, by type of disability, 1976-77 through 2022-23. Accessed 2026-10-06.",
+      "source_url": "https://nces.ed.gov/programs/digest/d23/tables/dt23_204.30.asp"
+    },
+    {
+      "section": "Dyscalculia statistics by country",
+      "type": "table",
+      "title": "Dyscalculia by country: research estimates and official counts, each with its year",
+      "row": "United States",
+      "column": "Closest official count",
+      "value": "2,408,000 students, 4.9% of public school students (2022–23)",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "National Center for Education Statistics (2023). Digest of Education Statistics, Table 204.30: Children 3 to 21 years old served under IDEA, Part B, by type of disability, 1976-77 through 2022-23. Accessed 2026-10-06.",
+      "source_url": "https://nces.ed.gov/programs/digest/d23/tables/dt23_204.30.asp"
+    },
+    {
+      "section": "Dyscalculia statistics by country",
+      "type": "table",
+      "title": "Dyscalculia by country: research estimates and official counts, each with its year",
+      "row": "United States",
+      "column": "What the count covers",
+      "value": "Specific learning disability under IDEA: reading, writing and maths together",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "National Center for Education Statistics (2023). Digest of Education Statistics, Table 204.30: Children 3 to 21 years old served under IDEA, Part B, by type of disability, 1976-77 through 2022-23. Accessed 2026-10-06.",
+      "source_url": "https://nces.ed.gov/programs/digest/d23/tables/dt23_204.30.asp"
+    },
+    {
+      "section": "Dyscalculia statistics by country",
+      "type": "table",
+      "title": "Dyscalculia by country: research estimates and official counts, each with its year",
+      "row": "England (UK)",
+      "column": "Prevalence estimate",
+      "value": "5.7% (UK primary school sample, 2018)",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "Morsanyi K, van Bers BMCW, McCormack T, McGourty J (2018). The prevalence of specific learning disorder in mathematics and comorbidity with other developmental disorders in primary school-age children. Br J Psychol, 109(4), 917-940. | Department for Education (2026). Special educational needs in England, academic year 2025/26 (type of need). Accessed 2026-10-06.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/29974939/ | https://explore-education-statistics.service.gov.uk/find-statistics/special-educational-needs-in-england"
+    },
+    {
+      "section": "Dyscalculia statistics by country",
+      "type": "table",
+      "title": "Dyscalculia by country: research estimates and official counts, each with its year",
+      "row": "England (UK)",
+      "column": "Closest official count",
+      "value": "180,217 pupils with specific learning difficulty as primary need (2025/26)",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "Morsanyi K, van Bers BMCW, McCormack T, McGourty J (2018). The prevalence of specific learning disorder in mathematics and comorbidity with other developmental disorders in primary school-age children. Br J Psychol, 109(4), 917-940. | Department for Education (2026). Special educational needs in England, academic year 2025/26 (type of need). Accessed 2026-10-06.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/29974939/ | https://explore-education-statistics.service.gov.uk/find-statistics/special-educational-needs-in-england"
+    },
+    {
+      "section": "Dyscalculia statistics by country",
+      "type": "table",
+      "title": "Dyscalculia by country: research estimates and official counts, each with its year",
+      "row": "England (UK)",
+      "column": "What the count covers",
+      "value": "Includes dyslexia, dyscalculia and dyspraxia; only the primary need is recorded",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "Morsanyi K, van Bers BMCW, McCormack T, McGourty J (2018). The prevalence of specific learning disorder in mathematics and comorbidity with other developmental disorders in primary school-age children. Br J Psychol, 109(4), 917-940. | Department for Education (2026). Special educational needs in England, academic year 2025/26 (type of need). Accessed 2026-10-06.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/29974939/ | https://explore-education-statistics.service.gov.uk/find-statistics/special-educational-needs-in-england"
+    },
+    {
+      "section": "Dyscalculia statistics by country",
+      "type": "table",
+      "title": "Dyscalculia by country: research estimates and official counts, each with its year",
+      "row": "Germany",
+      "column": "Prevalence estimate",
+      "value": "3–7% (clinical guideline, 2019)",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "Haberstroh S, Schulte-Körne G (2019). The Diagnosis and Treatment of Dyscalculia. Dtsch Arztebl Int, 116(7), 107-114.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/30905334/"
+    },
+    {
+      "section": "Dyscalculia statistics by country",
+      "type": "table",
+      "title": "Dyscalculia by country: research estimates and official counts, each with its year",
+      "row": "Germany",
+      "column": "Closest official count",
+      "value": "No official figure found",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "Haberstroh S, Schulte-Körne G (2019). The Diagnosis and Treatment of Dyscalculia. Dtsch Arztebl Int, 116(7), 107-114.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/30905334/"
+    },
+    {
+      "section": "Dyscalculia statistics by country",
+      "type": "table",
+      "title": "Dyscalculia by country: research estimates and official counts, each with its year",
+      "row": "Germany",
+      "column": "What the count covers",
+      "value": "–",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "Haberstroh S, Schulte-Körne G (2019). The Diagnosis and Treatment of Dyscalculia. Dtsch Arztebl Int, 116(7), 107-114.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/30905334/"
+    },
+    {
+      "section": "Dyscalculia statistics by country",
+      "type": "table",
+      "title": "Dyscalculia by country: research estimates and official counts, each with its year",
+      "row": "Austria",
+      "column": "Prevalence estimate",
+      "value": "No national figure found",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "",
+      "source_url": ""
+    },
+    {
+      "section": "Dyscalculia statistics by country",
+      "type": "table",
+      "title": "Dyscalculia by country: research estimates and official counts, each with its year",
+      "row": "Austria",
+      "column": "Closest official count",
+      "value": "No official figure found",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "",
+      "source_url": ""
+    },
+    {
+      "section": "Dyscalculia statistics by country",
+      "type": "table",
+      "title": "Dyscalculia by country: research estimates and official counts, each with its year",
+      "row": "Austria",
+      "column": "What the count covers",
+      "value": "–",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "",
+      "source_url": ""
+    },
+    {
+      "section": "Dyscalculia statistics by country",
+      "type": "table",
+      "title": "Dyscalculia by country: research estimates and official counts, each with its year",
+      "row": "Switzerland",
+      "column": "Prevalence estimate",
+      "value": "No national figure found",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "",
+      "source_url": ""
+    },
+    {
+      "section": "Dyscalculia statistics by country",
+      "type": "table",
+      "title": "Dyscalculia by country: research estimates and official counts, each with its year",
+      "row": "Switzerland",
+      "column": "Closest official count",
+      "value": "No official figure found",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "",
+      "source_url": ""
+    },
+    {
+      "section": "Dyscalculia statistics by country",
+      "type": "table",
+      "title": "Dyscalculia by country: research estimates and official counts, each with its year",
+      "row": "Switzerland",
+      "column": "What the count covers",
+      "value": "–",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "",
+      "source_url": ""
+    },
+    {
+      "section": "Dyscalculia statistics by country",
+      "type": "table",
+      "title": "Dyscalculia by country: research estimates and official counts, each with its year",
+      "row": "France",
+      "column": "Prevalence estimate",
+      "value": "No French study found; international studies 3.6–7.7% (Inserm, 2007)",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "Inserm (2007). Dyslexie, dysorthographie, dyscalculie : bilan des données scientifiques. Expertise collective, chapitre 11 : Dyscalculie et troubles de l'apprentissage de l'arithmétique. Accessed 2026-10-06.",
+      "source_url": "https://ipubli.inserm.fr/bitstream/handle/10608/110/Chapitre_11.html"
+    },
+    {
+      "section": "Dyscalculia statistics by country",
+      "type": "table",
+      "title": "Dyscalculia by country: research estimates and official counts, each with its year",
+      "row": "France",
+      "column": "Closest official count",
+      "value": "No official figure found",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "Inserm (2007). Dyslexie, dysorthographie, dyscalculie : bilan des données scientifiques. Expertise collective, chapitre 11 : Dyscalculie et troubles de l'apprentissage de l'arithmétique. Accessed 2026-10-06.",
+      "source_url": "https://ipubli.inserm.fr/bitstream/handle/10608/110/Chapitre_11.html"
+    },
+    {
+      "section": "Dyscalculia statistics by country",
+      "type": "table",
+      "title": "Dyscalculia by country: research estimates and official counts, each with its year",
+      "row": "France",
+      "column": "What the count covers",
+      "value": "–",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "Inserm (2007). Dyslexie, dysorthographie, dyscalculie : bilan des données scientifiques. Expertise collective, chapitre 11 : Dyscalculie et troubles de l'apprentissage de l'arithmétique. Accessed 2026-10-06.",
+      "source_url": "https://ipubli.inserm.fr/bitstream/handle/10608/110/Chapitre_11.html"
+    },
+    {
+      "section": "Dyscalculia statistics by country",
+      "type": "table",
+      "title": "Dyscalculia by country: research estimates and official counts, each with its year",
+      "row": "Belgium",
+      "column": "Prevalence estimate",
+      "value": "2.3–7.7% depending on age (Flanders, N = 3,978, 2004)",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "Inserm (2007). Dyslexie, dysorthographie, dyscalculie : bilan des données scientifiques. Expertise collective, chapitre 11 : Dyscalculie et troubles de l'apprentissage de l'arithmétique. Accessed 2026-10-06.",
+      "source_url": "https://ipubli.inserm.fr/bitstream/handle/10608/110/Chapitre_11.html"
+    },
+    {
+      "section": "Dyscalculia statistics by country",
+      "type": "table",
+      "title": "Dyscalculia by country: research estimates and official counts, each with its year",
+      "row": "Belgium",
+      "column": "Closest official count",
+      "value": "No official figure found",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "Inserm (2007). Dyslexie, dysorthographie, dyscalculie : bilan des données scientifiques. Expertise collective, chapitre 11 : Dyscalculie et troubles de l'apprentissage de l'arithmétique. Accessed 2026-10-06.",
+      "source_url": "https://ipubli.inserm.fr/bitstream/handle/10608/110/Chapitre_11.html"
+    },
+    {
+      "section": "Dyscalculia statistics by country",
+      "type": "table",
+      "title": "Dyscalculia by country: research estimates and official counts, each with its year",
+      "row": "Belgium",
+      "column": "What the count covers",
+      "value": "–",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "Inserm (2007). Dyslexie, dysorthographie, dyscalculie : bilan des données scientifiques. Expertise collective, chapitre 11 : Dyscalculie et troubles de l'apprentissage de l'arithmétique. Accessed 2026-10-06.",
+      "source_url": "https://ipubli.inserm.fr/bitstream/handle/10608/110/Chapitre_11.html"
+    },
+    {
+      "section": "Dyscalculia statistics by country",
+      "type": "table",
+      "title": "Dyscalculia by country: research estimates and official counts, each with its year",
+      "row": "Spain",
+      "column": "Prevalence estimate",
+      "value": "No national figure found",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "Ministerio de Educación, Formación Profesional y Deportes (2026). Alumnado con necesidad específica de apoyo educativo, curso 2024-2025 (nota de prensa, 30/04/2026). Accessed 2026-10-06.",
+      "source_url": "https://www.educacionfpydeportes.gob.es/prensa/actualidad/2026/04/20260430-apoyoeducativo.html"
+    },
+    {
+      "section": "Dyscalculia statistics by country",
+      "type": "table",
+      "title": "Dyscalculia by country: research estimates and official counts, each with its year",
+      "row": "Spain",
+      "column": "Closest official count",
+      "value": "Learning disorders: 26.8% of students with other specific support needs (2024–25)",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "Ministerio de Educación, Formación Profesional y Deportes (2026). Alumnado con necesidad específica de apoyo educativo, curso 2024-2025 (nota de prensa, 30/04/2026). Accessed 2026-10-06.",
+      "source_url": "https://www.educacionfpydeportes.gob.es/prensa/actualidad/2026/04/20260430-apoyoeducativo.html"
+    },
+    {
+      "section": "Dyscalculia statistics by country",
+      "type": "table",
+      "title": "Dyscalculia by country: research estimates and official counts, each with its year",
+      "row": "Spain",
+      "column": "What the count covers",
+      "value": "All learning disorders together; dyscalculia is not reported separately",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "Ministerio de Educación, Formación Profesional y Deportes (2026). Alumnado con necesidad específica de apoyo educativo, curso 2024-2025 (nota de prensa, 30/04/2026). Accessed 2026-10-06.",
+      "source_url": "https://www.educacionfpydeportes.gob.es/prensa/actualidad/2026/04/20260430-apoyoeducativo.html"
+    },
+    {
+      "section": "Dyscalculia statistics by country",
+      "type": "table",
+      "title": "Dyscalculia by country: research estimates and official counts, each with its year",
+      "row": "Mexico",
+      "column": "Prevalence estimate",
+      "value": "No national figure found",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "",
+      "source_url": ""
+    },
+    {
+      "section": "Dyscalculia statistics by country",
+      "type": "table",
+      "title": "Dyscalculia by country: research estimates and official counts, each with its year",
+      "row": "Mexico",
+      "column": "Closest official count",
+      "value": "No official figure found",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "",
+      "source_url": ""
+    },
+    {
+      "section": "Dyscalculia statistics by country",
+      "type": "table",
+      "title": "Dyscalculia by country: research estimates and official counts, each with its year",
+      "row": "Mexico",
+      "column": "What the count covers",
+      "value": "–",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "",
+      "source_url": ""
+    },
+    {
+      "section": "Dyscalculia statistics by country",
+      "type": "table",
+      "title": "Dyscalculia by country: research estimates and official counts, each with its year",
+      "row": "Netherlands",
+      "column": "Prevalence estimate",
+      "value": "No national figure found",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "",
+      "source_url": ""
+    },
+    {
+      "section": "Dyscalculia statistics by country",
+      "type": "table",
+      "title": "Dyscalculia by country: research estimates and official counts, each with its year",
+      "row": "Netherlands",
+      "column": "Closest official count",
+      "value": "No official figure found",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "",
+      "source_url": ""
+    },
+    {
+      "section": "Dyscalculia statistics by country",
+      "type": "table",
+      "title": "Dyscalculia by country: research estimates and official counts, each with its year",
+      "row": "Netherlands",
+      "column": "What the count covers",
+      "value": "–",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "",
+      "source_url": ""
+    },
+    {
+      "section": "Dyscalculia statistics by country",
+      "type": "table",
+      "title": "Dyscalculia by country: research estimates and official counts, each with its year",
+      "row": "Brazil",
+      "column": "Prevalence estimate",
+      "value": "6.0% arithmetic impairment, grades 2–6, four cities (2016)",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "Fortes IS, Paula CS, Oliveira MC et al. (2016). A cross-sectional study to assess the prevalence of DSM-5 specific learning disorders in representative school samples from the second to sixth grade in Brazil. Eur Child Adolesc Psychiatry, 25(2), 195-207.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/25925785/"
+    },
+    {
+      "section": "Dyscalculia statistics by country",
+      "type": "table",
+      "title": "Dyscalculia by country: research estimates and official counts, each with its year",
+      "row": "Brazil",
+      "column": "Closest official count",
+      "value": "No official figure found",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "Fortes IS, Paula CS, Oliveira MC et al. (2016). A cross-sectional study to assess the prevalence of DSM-5 specific learning disorders in representative school samples from the second to sixth grade in Brazil. Eur Child Adolesc Psychiatry, 25(2), 195-207.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/25925785/"
+    },
+    {
+      "section": "Dyscalculia statistics by country",
+      "type": "table",
+      "title": "Dyscalculia by country: research estimates and official counts, each with its year",
+      "row": "Brazil",
+      "column": "What the count covers",
+      "value": "–",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "Fortes IS, Paula CS, Oliveira MC et al. (2016). A cross-sectional study to assess the prevalence of DSM-5 specific learning disorders in representative school samples from the second to sixth grade in Brazil. Eur Child Adolesc Psychiatry, 25(2), 195-207.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/25925785/"
+    },
+    {
+      "section": "Dyscalculia statistics by country",
+      "type": "table",
+      "title": "Dyscalculia by country: research estimates and official counts, each with its year",
+      "row": "Worldwide",
+      "column": "Prevalence estimate",
+      "value": "3–6% across population studies (review, 2000)",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "Shalev RS, Auerbach J, Manor O et al. (2000). Developmental dyscalculia: prevalence and prognosis. Eur Child Adolesc Psychiatry, 9 Suppl 2(), II58-64.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/11138905/"
+    },
+    {
+      "section": "Dyscalculia statistics by country",
+      "type": "table",
+      "title": "Dyscalculia by country: research estimates and official counts, each with its year",
+      "row": "Worldwide",
+      "column": "Closest official count",
+      "value": "No global count exists",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "Shalev RS, Auerbach J, Manor O et al. (2000). Developmental dyscalculia: prevalence and prognosis. Eur Child Adolesc Psychiatry, 9 Suppl 2(), II58-64.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/11138905/"
+    },
+    {
+      "section": "Dyscalculia statistics by country",
+      "type": "table",
+      "title": "Dyscalculia by country: research estimates and official counts, each with its year",
+      "row": "Worldwide",
+      "column": "What the count covers",
+      "value": "–",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "Shalev RS, Auerbach J, Manor O et al. (2000). Developmental dyscalculia: prevalence and prognosis. Eur Child Adolesc Psychiatry, 9 Suppl 2(), II58-64.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/11138905/"
+    },
+    {
+      "section": "Is dyscalculia more common in boys or girls?",
+      "type": "table",
+      "title": "Dyscalculia by sex in population studies",
+      "row": "Israel, 1996",
+      "column": "Children",
+      "value": "3,029",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "Gross-Tsur V, Manor O, Shalev RS (1996). Developmental dyscalculia: prevalence and demographic features. Dev Med Child Neurol, 38(1), 25-33.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/8606013/"
+    },
+    {
+      "section": "Is dyscalculia more common in boys or girls?",
+      "type": "table",
+      "title": "Dyscalculia by sex in population studies",
+      "row": "Israel, 1996",
+      "column": "Finding",
+      "value": "About equal: 75 girls, 65 boys with dyscalculia",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "Gross-Tsur V, Manor O, Shalev RS (1996). Developmental dyscalculia: prevalence and demographic features. Dev Med Child Neurol, 38(1), 25-33.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/8606013/"
+    },
+    {
+      "section": "Is dyscalculia more common in boys or girls?",
+      "type": "table",
+      "title": "Dyscalculia by sex in population studies",
+      "row": "UK, 1994",
+      "column": "Children",
+      "value": "1,206",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "Lewis C, Hitch GJ, Walker P (1994). The prevalence of specific arithmetic difficulties and specific reading difficulties in 9- to 10-year-old boys and girls. J Child Psychol Psychiatry, 35(2), 283-92.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/8188799/"
+    },
+    {
+      "section": "Is dyscalculia more common in boys or girls?",
+      "type": "table",
+      "title": "Dyscalculia by sex in population studies",
+      "row": "UK, 1994",
+      "column": "Finding",
+      "value": "Equal numbers of boys and girls with arithmetic difficulties",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "Lewis C, Hitch GJ, Walker P (1994). The prevalence of specific arithmetic difficulties and specific reading difficulties in 9- to 10-year-old boys and girls. J Child Psychol Psychiatry, 35(2), 283-92.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/8188799/"
+    },
+    {
+      "section": "Is dyscalculia more common in boys or girls?",
+      "type": "table",
+      "title": "Dyscalculia by sex in population studies",
+      "row": "England, 2013",
+      "column": "Children",
+      "value": "1,004",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "Devine A, Soltész F, Nobes A et al. (2013). Gender differences in developmental dyscalculia depend on diagnostic criteria. Learn Instr, 27(), 31-39.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/27667904/"
+    },
+    {
+      "section": "Is dyscalculia more common in boys or girls?",
+      "type": "table",
+      "title": "Dyscalculia by sex in population studies",
+      "row": "England, 2013",
+      "column": "Finding",
+      "value": "Equal with a fixed cut-off; a difference only with a maths-reading gap definition",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "Devine A, Soltész F, Nobes A et al. (2013). Gender differences in developmental dyscalculia depend on diagnostic criteria. Learn Instr, 27(), 31-39.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/27667904/"
+    },
+    {
+      "section": "Is dyscalculia more common in boys or girls?",
+      "type": "table",
+      "title": "Dyscalculia by sex in population studies",
+      "row": "UK, 2018",
+      "column": "Children",
+      "value": "2,421",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "Morsanyi K, van Bers BMCW, McCormack T, McGourty J (2018). The prevalence of specific learning disorder in mathematics and comorbidity with other developmental disorders in primary school-age children. Br J Psychol, 109(4), 917-940.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/29974939/"
+    },
+    {
+      "section": "Is dyscalculia more common in boys or girls?",
+      "type": "table",
+      "title": "Dyscalculia by sex in population studies",
+      "row": "UK, 2018",
+      "column": "Finding",
+      "value": "Persistent maths difficulties equally common in boys and girls",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "Morsanyi K, van Bers BMCW, McCormack T, McGourty J (2018). The prevalence of specific learning disorder in mathematics and comorbidity with other developmental disorders in primary school-age children. Br J Psychol, 109(4), 917-940.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/29974939/"
+    },
+    {
+      "section": "Is dyscalculia more common in boys or girls?",
+      "type": "table",
+      "title": "Dyscalculia by sex in population studies",
+      "row": "Germany, 2014",
+      "column": "Children",
+      "value": "1,633",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "Moll K, Kunze S, Neuhoff N et al. (2014). Specific learning disorder: prevalence and gender differences. PLoS One, 9(7), e103537.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/25072465/"
+    },
+    {
+      "section": "Is dyscalculia more common in boys or girls?",
+      "type": "table",
+      "title": "Dyscalculia by sex in population studies",
+      "row": "Germany, 2014",
+      "column": "Finding",
+      "value": "More girls: about 59% of children with arithmetic deficits (our calculation)",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "Moll K, Kunze S, Neuhoff N et al. (2014). Specific learning disorder: prevalence and gender differences. PLoS One, 9(7), e103537.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/25072465/"
+    },
+    {
+      "section": "Dyscalculia with dyslexia and ADHD",
+      "type": "table",
+      "title": "How often dyscalculia co-occurs with other conditions",
+      "row": "OR 12.25",
+      "column": "What it measures",
+      "value": "Odds of dyslexia in people with dyscalculia",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "Haberstroh S, Schulte-Körne G (2019). The Diagnosis and Treatment of Dyscalculia. Dtsch Arztebl Int, 116(7), 107-114.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/30905334/"
+    },
+    {
+      "section": "Dyscalculia with dyslexia and ADHD",
+      "type": "table",
+      "title": "How often dyscalculia co-occurs with other conditions",
+      "row": "OR 12.25",
+      "column": "Source",
+      "value": "Guideline meta-analysis, 2019",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "Haberstroh S, Schulte-Körne G (2019). The Diagnosis and Treatment of Dyscalculia. Dtsch Arztebl Int, 116(7), 107-114.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/30905334/"
+    },
+    {
+      "section": "Dyscalculia with dyslexia and ADHD",
+      "type": "table",
+      "title": "How often dyscalculia co-occurs with other conditions",
+      "row": "OR 2.12",
+      "column": "What it measures",
+      "value": "Odds of a reading disability in students with a maths disability",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "Joyner RE, Wagner RK (2020). Co-occurrence of reading disabilities and math disabilities: a meta-analysis. Sci Stud Read, 24(1), 14-22.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/32051676/"
+    },
+    {
+      "section": "Dyscalculia with dyslexia and ADHD",
+      "type": "table",
+      "title": "How often dyscalculia co-occurs with other conditions",
+      "row": "OR 2.12",
+      "column": "Source",
+      "value": "Meta-analysis, 2020",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "Joyner RE, Wagner RK (2020). Co-occurrence of reading disabilities and math disabilities: a meta-analysis. Sci Stud Read, 24(1), 14-22.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/32051676/"
+    },
+    {
+      "section": "Dyscalculia with dyslexia and ADHD",
+      "type": "table",
+      "title": "How often dyscalculia co-occurs with other conditions",
+      "row": "17%",
+      "column": "What it measures",
+      "value": "Children with dyscalculia who also had dyslexia (strict reading cut-off)",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "Gross-Tsur V, Manor O, Shalev RS (1996). Developmental dyscalculia: prevalence and demographic features. Dev Med Child Neurol, 38(1), 25-33.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/8606013/"
+    },
+    {
+      "section": "Dyscalculia with dyslexia and ADHD",
+      "type": "table",
+      "title": "How often dyscalculia co-occurs with other conditions",
+      "row": "17%",
+      "column": "Source",
+      "value": "Israel, 1996",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "Gross-Tsur V, Manor O, Shalev RS (1996). Developmental dyscalculia: prevalence and demographic features. Dev Med Child Neurol, 38(1), 25-33.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/8606013/"
+    },
+    {
+      "section": "Dyscalculia with dyslexia and ADHD",
+      "type": "table",
+      "title": "How often dyscalculia co-occurs with other conditions",
+      "row": "26%",
+      "column": "What it measures",
+      "value": "Children with dyscalculia with symptoms of ADHD",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "Gross-Tsur V, Manor O, Shalev RS (1996). Developmental dyscalculia: prevalence and demographic features. Dev Med Child Neurol, 38(1), 25-33.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/8606013/"
+    },
+    {
+      "section": "Dyscalculia with dyslexia and ADHD",
+      "type": "table",
+      "title": "How often dyscalculia co-occurs with other conditions",
+      "row": "26%",
+      "column": "Source",
+      "value": "Israel, 1996",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "Gross-Tsur V, Manor O, Shalev RS (1996). Developmental dyscalculia: prevalence and demographic features. Dev Med Child Neurol, 38(1), 25-33.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/8606013/"
+    },
+    {
+      "section": "Dyscalculia with dyslexia and ADHD",
+      "type": "table",
+      "title": "How often dyscalculia co-occurs with other conditions",
+      "row": "18.1%",
+      "column": "What it measures",
+      "value": "Children with ADHD who had a mathematics disorder",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "Capano L, Minden D, Chen SX, Schacher RJ, Ickowicz A (2008). Mathematical learning disorder in school-age children with attention-deficit hyperactivity disorder. Can J Psychiatry, 53(6), 392-9.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/18616860/"
+    },
+    {
+      "section": "Dyscalculia with dyslexia and ADHD",
+      "type": "table",
+      "title": "How often dyscalculia co-occurs with other conditions",
+      "row": "18.1%",
+      "column": "Source",
+      "value": "Canada, 2008",
+      "numeric_value": "",
+      "note": "",
+      "data_year": "",
+      "source": "Capano L, Minden D, Chen SX, Schacher RJ, Ickowicz A (2008). Mathematical learning disorder in school-age children with attention-deficit hyperactivity disorder. Can J Psychiatry, 53(6), 392-9.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/18616860/"
+    },
+    {
+      "section": "Does dyscalculia last into adulthood?",
+      "type": "chart",
+      "title": "Children with dyscalculia, years after identification",
+      "row": "Still in the lowest quarter, 6 years later",
+      "column": "Share of children",
+      "value": "95%",
+      "numeric_value": 95,
+      "note": "104 children followed up, 2005",
+      "data_year": "",
+      "source": "Shalev RS, Manor O, Gross-Tsur V (2005). Developmental dyscalculia: a prospective six-year follow-up. Dev Med Child Neurol, 47(2), 121-5.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/15707235/"
+    },
+    {
+      "section": "Does dyscalculia last into adulthood?",
+      "type": "chart",
+      "title": "Children with dyscalculia, years after identification",
+      "row": "Still met the criteria, 3 years later",
+      "column": "Share of children",
+      "value": "47%",
+      "numeric_value": 47,
+      "note": "57/123 children, 1998",
+      "data_year": "",
+      "source": "Shalev RS, Manor O, Auerbach J, Gross-Tsur V (1998). Persistence of developmental dyscalculia: what counts? Results from a 3-year prospective follow-up study. J Pediatr, 133(3), 358-62.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/9738716/"
+    },
+    {
+      "section": "Does dyscalculia last into adulthood?",
+      "type": "chart",
+      "title": "Children with dyscalculia, years after identification",
+      "row": "Still met the criteria, 6 years later",
+      "column": "Share of children",
+      "value": "40%",
+      "numeric_value": 40,
+      "note": "42/104 children, 2005",
+      "data_year": "",
+      "source": "Shalev RS, Manor O, Gross-Tsur V (2005). Developmental dyscalculia: a prospective six-year follow-up. Dev Med Child Neurol, 47(2), 121-5.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/15707235/"
+    },
+    {
+      "section": "Math anxiety statistics",
+      "type": "chart",
+      "title": "15-year-olds reporting maths anxiety, OECD average (PISA 2012)",
+      "row": "Often worry maths classes will be difficult",
+      "column": "Students agreeing",
+      "value": "59%",
+      "numeric_value": 59,
+      "note": "OECD average, PISA 2012",
+      "data_year": "",
+      "source": "OECD (2015). Does math make you anxious? PISA in Focus No. 48 (PISA 2012 data). Accessed 2026-10-06.",
+      "source_url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2015/02/does-math-make-you-anxious_g17a25bf/5js6b2579tnx-en.pdf"
+    },
+    {
+      "section": "Math anxiety statistics",
+      "type": "chart",
+      "title": "15-year-olds reporting maths anxiety, OECD average (PISA 2012)",
+      "row": "Get very tense doing maths homework",
+      "column": "Students agreeing",
+      "value": "33%",
+      "numeric_value": 33,
+      "note": "OECD average, PISA 2012",
+      "data_year": "",
+      "source": "OECD (2015). Does math make you anxious? PISA in Focus No. 48 (PISA 2012 data). Accessed 2026-10-06.",
+      "source_url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2015/02/does-math-make-you-anxious_g17a25bf/5js6b2579tnx-en.pdf"
+    },
+    {
+      "section": "Math anxiety statistics",
+      "type": "chart",
+      "title": "15-year-olds reporting maths anxiety, OECD average (PISA 2012)",
+      "row": "Get very nervous doing maths problems",
+      "column": "Students agreeing",
+      "value": "31%",
+      "numeric_value": 31,
+      "note": "OECD average, PISA 2012",
+      "data_year": "",
+      "source": "OECD (2015). Does math make you anxious? PISA in Focus No. 48 (PISA 2012 data). Accessed 2026-10-06.",
+      "source_url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2015/02/does-math-make-you-anxious_g17a25bf/5js6b2579tnx-en.pdf"
+    },
+    {
+      "section": "Math anxiety statistics",
+      "type": "chart",
+      "title": "15-year-olds reporting maths anxiety, OECD average (PISA 2012)",
+      "row": "Feel helpless doing a maths problem",
+      "column": "Students agreeing",
+      "value": "30%",
+      "numeric_value": 30,
+      "note": "OECD average, PISA 2012",
+      "data_year": "",
+      "source": "OECD (2015). Does math make you anxious? PISA in Focus No. 48 (PISA 2012 data). Accessed 2026-10-06.",
+      "source_url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2015/02/does-math-make-you-anxious_g17a25bf/5js6b2579tnx-en.pdf"
+    },
+    {
+      "section": "Effect of dyscalculia interventions",
+      "type": "chart",
+      "title": "Average effect of maths interventions in three meta-analyses",
+      "row": "Number-fact fluency practice",
+      "column": "Effect size",
+      "value": "0.76",
+      "numeric_value": 0.76,
+      "note": "35 studies, students with maths difficulties, 2026",
+      "data_year": "",
+      "source": "Douglas GP, Myers JA, Mason KK, Powell SR, Lariviere DO (2026). A meta-analysis of mathematics fact fluency interventions for students with mathematics difficulties (MD). J Learn Disabil, 59(3), 135-160.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41787952/"
+    },
+    {
+      "section": "Effect of dyscalculia interventions",
+      "type": "chart",
+      "title": "Average effect of maths interventions in three meta-analyses",
+      "row": "Digital interventions",
+      "column": "Effect size",
+      "value": "0.55",
+      "numeric_value": 0.55,
+      "note": "15 randomised trials, 1,073 children, 2020",
+      "data_year": "",
+      "source": "Benavides-Varela S, Zandonella Callegher C, Fagiolini B et al. (2020). Effectiveness of digital-based interventions for children with mathematical learning difficulties: a meta-analysis. Comput Educ, 157, 103953.",
+      "source_url": "https://doi.org/10.1016/j.compedu.2020.103953"
+    },
+    {
+      "section": "Effect of dyscalculia interventions",
+      "type": "chart",
+      "title": "Average effect of maths interventions in three meta-analyses",
+      "row": "All intervention trials (German guideline)",
+      "column": "Effect size",
+      "value": "0.52",
+      "numeric_value": 0.52,
+      "note": "dyscalculia, 2019",
+      "data_year": "",
+      "source": "Haberstroh S, Schulte-Körne G (2019). The Diagnosis and Treatment of Dyscalculia. Dtsch Arztebl Int, 116(7), 107-114.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/30905334/"
+    }
+  ],
+  "snapshot": "2026-10-18",
+  "nextReview": "2027-04-06",
+  "citeAs": "Dyscalculia.io. (2026, October 6). Dyscalculia statistics 2026: how common is dyscalculia? https://dyscalculia.io/dyscalculia-statistics",
+  "citeHtml": "<a href=\"https://dyscalculia.io/dyscalculia-statistics\">Dyscalculia statistics (Dyscalculia.io)</a>",
+  "honestLimits": [
+    "No worldwide pooled meta-analysis of dyscalculia prevalence was found (PubMed search, 2026-10-06), so the global row is a range across population studies, not one number.",
+    "Studies use different criteria and ages: figures are not directly comparable and the same data can give 1% or 6% depending on the cut-off (see england-devine-2013).",
+    "No country checked publishes an official count of dyscalculia alone. Official figures (US, England, Spain) cover broader learning-disability categories.",
+    "These are research prevalence figures, not a diagnosis of any person."
+  ],
+  "figures": {
+    "range": {
+      "lo": 3,
+      "hi": 6,
+      "guidelineHi": 7
+    },
+    "israel": {
+      "pct": 6.5,
+      "n": 3029,
+      "age": 11,
+      "year": 1996,
+      "girls": 75,
+      "boys": 65
+    },
+    "morsanyi": {
+      "pct": 5.7,
+      "persistent": 6,
+      "n": 2421,
+      "year": 2018
+    },
+    "devine2018": {
+      "pct": 5.6,
+      "n": 1757,
+      "year": 2018,
+      "mathAnxDd": 22,
+      "mathAnxTypical": 10,
+      "anxiousTypical": 77
+    },
+    "devine2013": {
+      "lo": 1,
+      "hi": 6,
+      "n": 1004,
+      "year": 2013
+    },
+    "lewis": {
+      "specific": 1.3,
+      "combined": 2.3,
+      "total": 3.6,
+      "n": 1206,
+      "year": 1994
+    },
+    "brazil": {
+      "arithmetic": 6,
+      "n": 1618,
+      "year": 2016
+    },
+    "flanders": {
+      "lo": 2.3,
+      "hi": 7.7,
+      "n": 3978,
+      "year": 2004
+    },
+    "inserm": {
+      "lo": 3.6,
+      "hi": 7.7
+    },
+    "moll": {
+      "n": 1633,
+      "boysShare": 40.8,
+      "girlsShare": 59.2,
+      "year": 2014
+    },
+    "landerlMoll": {
+      "n": 2586,
+      "timesHigher": "4–5",
+      "year": 2010
+    },
+    "comorbid": {
+      "haberstrohOr": 12.25,
+      "joynerOr": 2.12,
+      "joynerLo": 1.76,
+      "joynerHi": 2.55,
+      "gtDyslexia": 17,
+      "gtAdhd": 26,
+      "capanoMd": 18.1,
+      "capanoN": 476,
+      "morsanyiLanguage": 50
+    },
+    "persist": {
+      "y3": 47,
+      "y3n": "57/123",
+      "y6": 40,
+      "y6n": "42/104",
+      "lowQuartile": 95
+    },
+    "family": {
+      "mothers": 66,
+      "fathers": 40,
+      "siblings": 53,
+      "siblingsLo": 40,
+      "siblingsHi": 64,
+      "times": 10
+    },
+    "pisa": {
+      "worry": 59,
+      "tense": 33,
+      "nervous": 31,
+      "helpless": 30,
+      "year": 2012
+    },
+    "internalizing": {
+      "g": 0.54,
+      "studies": 96,
+      "people": 83260
+    },
+    "effects": {
+      "guideline": 0.52,
+      "guidelineLo": 0.42,
+      "guidelineHi": 0.62,
+      "digital": 0.55,
+      "digitalStudies": 15,
+      "digitalN": 1073,
+      "fluency": 0.76,
+      "fluencyStudies": 35
+    },
+    "us": {
+      "sld": 2408000,
+      "sldShareOfIdea": 32,
+      "sldShareOfAll": 4.9,
+      "year": "2022–23"
+    },
+    "england": {
+      "total": 180217,
+      "year": "2025/26"
+    },
+    "spain": {
+      "learningShare": 26.8,
+      "year": "2024–25"
+    }
+  },
+  "calc": [
+    {
+      "path": "moll.girlsShare",
+      "how": "100 − 40,8"
+    }
+  ],
+  "sources": {
+    "range": "shalev2000",
+    "israel": "grosstsur1996",
+    "morsanyi": "morsanyi2018"
+  },
+  "prevalence": [
+    {
+      "id": "worldwide-range",
+      "population": "School-age children, range across population studies (review)",
+      "kind": "range",
+      "lo": 3,
+      "hi": 6,
+      "unit": "percent",
+      "n": null,
+      "year": 2000,
+      "age": "school age",
+      "ref": "shalev2000",
+      "calc": false,
+      "note": "A range, not a pooled figure: no worldwide meta-analysis of dyscalculia prevalence was found."
+    },
+    {
+      "id": "german-guideline",
+      "population": "Children, adolescents and adults (German clinical guideline)",
+      "kind": "range",
+      "lo": 3,
+      "hi": 7,
+      "unit": "percent",
+      "n": null,
+      "year": 2019,
+      "age": "children, adolescents and adults",
+      "ref": "haberstroh2019",
+      "calc": false,
+      "note": "The page applies the guideline range to adults as well, because dyscalculia is lifelong; no national adult estimate was found."
+    },
+    {
+      "id": "israel-1996",
+      "population": "Israel, age 11",
+      "kind": "point",
+      "pct": 6.5,
+      "unit": "percent",
+      "n": 3029,
+      "year": 1996,
+      "age": "11",
+      "ageFrom": 11,
+      "ageTo": 11,
+      "ref": "grosstsur1996",
+      "calc": false,
+      "note": "N = 3,029, published 1996"
+    },
+    {
+      "id": "brazil-2016",
+      "population": "Brazil, grades 2–6",
+      "kind": "point",
+      "pct": 6,
+      "unit": "percent",
+      "n": 1618,
+      "year": 2016,
+      "age": "grades 2 to 6",
+      "ageFrom": null,
+      "ageTo": null,
+      "ref": "fortes2016",
+      "calc": false,
+      "note": "arithmetic impairment, N = 1,618, 2016"
+    },
+    {
+      "id": "uk-morsanyi-2018",
+      "population": "UK, primary school",
+      "kind": "point",
+      "pct": 5.7,
+      "persistentSevereDifficultiesPct": 6,
+      "unit": "percent",
+      "n": 2421,
+      "year": 2018,
+      "age": "primary school",
+      "ageFrom": null,
+      "ageTo": null,
+      "ref": "morsanyi2018",
+      "calc": false,
+      "note": "DSM-5 criteria, N = 2,421, 2018"
+    },
+    {
+      "id": "england-devine-2018",
+      "population": "England, ages 8–9 and 12–13",
+      "kind": "point",
+      "pct": 5.6,
+      "unit": "percent",
+      "n": 1757,
+      "year": 2018,
+      "age": "8 to 9 and 12 to 13",
+      "ageFrom": 8,
+      "ageTo": 13,
+      "ageBands": [
+        [
+          8,
+          9
+        ],
+        [
+          12,
+          13
+        ]
+      ],
+      "ref": "devine2018",
+      "calc": false,
+      "note": "N = 1,757, 2018"
+    },
+    {
+      "id": "england-devine-2013",
+      "population": "England, one sample, depending on the criteria used",
+      "kind": "range",
+      "lo": 1,
+      "hi": 6,
+      "unit": "percent",
+      "n": 1004,
+      "year": 2013,
+      "age": null,
+      "ageFrom": null,
+      "ageTo": null,
+      "ref": "devine2013",
+      "calc": false,
+      "note": "The same data gave anything from 1% to 6% depending on where the line is drawn."
+    },
+    {
+      "id": "uk-lewis-1994",
+      "population": "UK, ages 9–10",
+      "kind": "point",
+      "pct": 3.6,
+      "arithmeticOnlyPct": 1.3,
+      "withReadingPct": 2.3,
+      "unit": "percent",
+      "n": 1206,
+      "year": 1994,
+      "age": "9 to 10",
+      "ageFrom": 9,
+      "ageTo": 10,
+      "ref": "lewis1994",
+      "calc": false,
+      "note": "1.3% arithmetic only + 2.3% with reading, N = 1,206, 1994"
+    },
+    {
+      "id": "flanders-2004",
+      "population": "Belgium (Flanders), depending on age",
+      "kind": "range",
+      "lo": 2.3,
+      "hi": 7.7,
+      "unit": "percent",
+      "n": 3978,
+      "year": 2004,
+      "age": "depending on age",
+      "ageFrom": null,
+      "ageTo": null,
+      "ref": "insermDyscalc2007",
+      "calc": false,
+      "note": "Reported through the Inserm collective expertise (2007), as on the site's country table."
+    },
+    {
+      "id": "inserm-2007",
+      "population": "France: international studies cited by Inserm (no French study found)",
+      "kind": "range",
+      "lo": 3.6,
+      "hi": 7.7,
+      "unit": "percent",
+      "n": null,
+      "year": 2007,
+      "age": null,
+      "ageFrom": null,
+      "ageTo": null,
+      "ref": "insermDyscalc2007",
+      "calc": false,
+      "note": "No French prevalence study was found; the range is from international studies in the Inserm report."
+    }
+  ],
+  "keyFigures": [
+    {
+      "value": "3–6%",
+      "label": "of school-age children have dyscalculia (review of population studies)",
+      "ref": "shalev2000",
+      "year": "2000"
+    },
+    {
+      "value": "6.5%",
+      "label": "of 3,029 children in an Israeli population study",
+      "ref": "grosstsur1996",
+      "year": "1996"
+    },
+    {
+      "value": "5.7%",
+      "label": "of 2,421 UK primary school children had a dyscalculia profile",
+      "ref": "morsanyi2018",
+      "year": "2018"
+    },
+    {
+      "value": "95%",
+      "label": "were still in the lowest quarter for arithmetic six years later",
+      "ref": "shalev2005",
+      "year": "2005"
+    },
+    {
+      "value": "OR 12.25",
+      "label": "higher odds of also having dyslexia",
+      "ref": "haberstroh2019",
+      "year": "2019"
+    },
+    {
+      "value": "0.52",
+      "label": "average effect size of targeted maths interventions",
+      "ref": "haberstroh2019",
+      "year": "2019"
+    }
+  ],
+  "charts": [
+    {
+      "id": "chart-1",
+      "topic": "prevalence",
+      "section": "How common is dyscalculia?",
+      "title": "Dyscalculia prevalence in population studies",
+      "description": "Israel 6.5%; Brazil 6.0%; UK 5.7%; England 5.6%; UK 1994 3.6%. Studies use different criteria.",
+      "columns": [
+        "Study population",
+        "Prevalence",
+        "Source and year"
+      ],
+      "rows": [
+        {
+          "label": "Israel, age 11",
+          "value": 6.5,
+          "display": "6.5%",
+          "note": "N = 3,029, published 1996",
+          "ref": "grosstsur1996"
+        },
+        {
+          "label": "Brazil, grades 2–6",
+          "value": 6,
+          "display": "6.0%",
+          "note": "arithmetic impairment, N = 1,618, 2016",
+          "ref": "fortes2016"
+        },
+        {
+          "label": "UK, primary school",
+          "value": 5.7,
+          "display": "5.7%",
+          "note": "DSM-5 criteria, N = 2,421, 2018",
+          "ref": "morsanyi2018"
+        },
+        {
+          "label": "England, ages 8–9 and 12–13",
+          "value": 5.6,
+          "display": "5.6%",
+          "note": "N = 1,757, 2018",
+          "ref": "devine2018"
+        },
+        {
+          "label": "UK, ages 9–10",
+          "value": 3.6,
+          "display": "3.6%",
+          "note": "1.3% arithmetic only + 2.3% with reading, N = 1,206, 1994",
+          "ref": "lewis1994"
+        }
+      ],
+      "svg": "https://dyscalculia.io/data/dyscalculia-statistics-chart-1.svg",
+      "anchor": "https://dyscalculia.io/dyscalculia-statistics#s-how-common-is-dyscalculia"
+    },
+    {
+      "id": "chart-6",
+      "topic": "persistence",
+      "section": "Does dyscalculia last into adulthood?",
+      "title": "Children with dyscalculia, years after identification",
+      "description": "After 3 years 47% and after 6 years 40% still met the criteria; 95% were still in the lowest quarter.",
+      "columns": [
+        "Follow-up",
+        "Share of children",
+        "Source"
+      ],
+      "rows": [
+        {
+          "label": "Still in the lowest quarter, 6 years later",
+          "value": 95,
+          "display": "95%",
+          "note": "104 children followed up, 2005",
+          "ref": "shalev2005"
+        },
+        {
+          "label": "Still met the criteria, 3 years later",
+          "value": 47,
+          "display": "47%",
+          "note": "57/123 children, 1998",
+          "ref": "shalev1998"
+        },
+        {
+          "label": "Still met the criteria, 6 years later",
+          "value": 40,
+          "display": "40%",
+          "note": "42/104 children, 2005",
+          "ref": "shalev2005"
+        }
+      ],
+      "svg": "https://dyscalculia.io/data/dyscalculia-statistics-chart-6.svg",
+      "anchor": "https://dyscalculia.io/dyscalculia-statistics#s-does-dyscalculia-last-into-adulthood"
+    },
+    {
+      "id": "chart-8",
+      "topic": "math-anxiety",
+      "section": "Math anxiety statistics",
+      "title": "15-year-olds reporting maths anxiety, OECD average (PISA 2012)",
+      "description": "Worry that maths classes will be difficult 59%; very tense doing homework 33%; very nervous doing problems 31%; helpless 30%.",
+      "columns": [
+        "Statement",
+        "Students agreeing",
+        "Source"
+      ],
+      "rows": [
+        {
+          "label": "Often worry maths classes will be difficult",
+          "value": 59,
+          "display": "59%",
+          "note": "OECD average, PISA 2012",
+          "ref": "oecdPisaFocus48"
+        },
+        {
+          "label": "Get very tense doing maths homework",
+          "value": 33,
+          "display": "33%",
+          "note": "OECD average, PISA 2012",
+          "ref": "oecdPisaFocus48"
+        },
+        {
+          "label": "Get very nervous doing maths problems",
+          "value": 31,
+          "display": "31%",
+          "note": "OECD average, PISA 2012",
+          "ref": "oecdPisaFocus48"
+        },
+        {
+          "label": "Feel helpless doing a maths problem",
+          "value": 30,
+          "display": "30%",
+          "note": "OECD average, PISA 2012",
+          "ref": "oecdPisaFocus48"
+        }
+      ],
+      "svg": "https://dyscalculia.io/data/dyscalculia-statistics-chart-8.svg",
+      "anchor": "https://dyscalculia.io/dyscalculia-statistics#s-math-anxiety-statistics"
+    },
+    {
+      "id": "chart-9",
+      "topic": "interventions",
+      "section": "Effect of dyscalculia interventions",
+      "title": "Average effect of maths interventions in three meta-analyses",
+      "description": "Effect sizes: number-fact fluency 0.76, digital interventions 0.55, all intervention trials in the German guideline 0.52.",
+      "columns": [
+        "Meta-analysis",
+        "Effect size",
+        "Scope"
+      ],
+      "rows": [
+        {
+          "label": "Number-fact fluency practice",
+          "value": 0.76,
+          "display": "0.76",
+          "note": "35 studies, students with maths difficulties, 2026",
+          "ref": "douglas2026"
+        },
+        {
+          "label": "Digital interventions",
+          "value": 0.55,
+          "display": "0.55",
+          "note": "15 randomised trials, 1,073 children, 2020",
+          "ref": "benavidesVarela2020"
+        },
+        {
+          "label": "All intervention trials (German guideline)",
+          "value": 0.52,
+          "display": "0.52",
+          "note": "dyscalculia, 2019",
+          "ref": "haberstroh2019"
+        }
+      ],
+      "svg": "https://dyscalculia.io/data/dyscalculia-statistics-chart-9.svg",
+      "anchor": "https://dyscalculia.io/dyscalculia-statistics#s-effect-of-dyscalculia-interventions"
+    }
+  ],
+  "tables": [
+    {
+      "id": "table-2",
+      "topic": "by-country",
+      "section": "Dyscalculia statistics by country",
+      "title": "Dyscalculia by country: research estimates and official counts, each with its year",
+      "columns": [
+        "Country",
+        "Prevalence estimate",
+        "Closest official count",
+        "What the count covers"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "United States",
+            "No national prevalence study found",
+            "2,408,000 students, 4.9% of public school students (2022–23)",
+            "Specific learning disability under IDEA: reading, writing and maths together"
+          ],
+          "refs": [
+            "ncesDigest20430"
+          ]
+        },
+        {
+          "cells": [
+            "England (UK)",
+            "5.7% (UK primary school sample, 2018)",
+            "180,217 pupils with specific learning difficulty as primary need (2025/26)",
+            "Includes dyslexia, dyscalculia and dyspraxia; only the primary need is recorded"
+          ],
+          "refs": [
+            "morsanyi2018",
+            "dfeSen2026"
+          ]
+        },
+        {
+          "cells": [
+            "Germany",
+            "3–7% (clinical guideline, 2019)",
+            "No official figure found",
+            "–"
+          ],
+          "refs": [
+            "haberstroh2019"
+          ]
+        },
+        {
+          "cells": [
+            "Austria",
+            "No national figure found",
+            "No official figure found",
+            "–"
+          ],
+          "refs": []
+        },
+        {
+          "cells": [
+            "Switzerland",
+            "No national figure found",
+            "No official figure found",
+            "–"
+          ],
+          "refs": []
+        },
+        {
+          "cells": [
+            "France",
+            "No French study found; international studies 3.6–7.7% (Inserm, 2007)",
+            "No official figure found",
+            "–"
+          ],
+          "refs": [
+            "insermDyscalc2007"
+          ]
+        },
+        {
+          "cells": [
+            "Belgium",
+            "2.3–7.7% depending on age (Flanders, N = 3,978, 2004)",
+            "No official figure found",
+            "–"
+          ],
+          "refs": [
+            "insermDyscalc2007"
+          ]
+        },
+        {
+          "cells": [
+            "Spain",
+            "No national figure found",
+            "Learning disorders: 26.8% of students with other specific support needs (2024–25)",
+            "All learning disorders together; dyscalculia is not reported separately"
+          ],
+          "refs": [
+            "mefpNeae2026"
+          ]
+        },
+        {
+          "cells": [
+            "Mexico",
+            "No national figure found",
+            "No official figure found",
+            "–"
+          ],
+          "refs": []
+        },
+        {
+          "cells": [
+            "Netherlands",
+            "No national figure found",
+            "No official figure found",
+            "–"
+          ],
+          "refs": []
+        },
+        {
+          "cells": [
+            "Brazil",
+            "6.0% arithmetic impairment, grades 2–6, four cities (2016)",
+            "No official figure found",
+            "–"
+          ],
+          "refs": [
+            "fortes2016"
+          ]
+        },
+        {
+          "cells": [
+            "Worldwide",
+            "3–6% across population studies (review, 2000)",
+            "No global count exists",
+            "–"
+          ],
+          "refs": [
+            "shalev2000"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "table-4",
+      "topic": "sex-ratio",
+      "section": "Is dyscalculia more common in boys or girls?",
+      "title": "Dyscalculia by sex in population studies",
+      "columns": [
+        "Study",
+        "Children",
+        "Finding"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Israel, 1996",
+            "3,029",
+            "About equal: 75 girls, 65 boys with dyscalculia"
+          ],
+          "refs": [
+            "grosstsur1996"
+          ]
+        },
+        {
+          "cells": [
+            "UK, 1994",
+            "1,206",
+            "Equal numbers of boys and girls with arithmetic difficulties"
+          ],
+          "refs": [
+            "lewis1994"
+          ]
+        },
+        {
+          "cells": [
+            "England, 2013",
+            "1,004",
+            "Equal with a fixed cut-off; a difference only with a maths-reading gap definition"
+          ],
+          "refs": [
+            "devine2013"
+          ]
+        },
+        {
+          "cells": [
+            "UK, 2018",
+            "2,421",
+            "Persistent maths difficulties equally common in boys and girls"
+          ],
+          "refs": [
+            "morsanyi2018"
+          ]
+        },
+        {
+          "cells": [
+            "Germany, 2014",
+            "1,633",
+            "More girls: about 59% of children with arithmetic deficits (our calculation)"
+          ],
+          "refs": [
+            "moll2014"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "table-5",
+      "topic": "comorbidity",
+      "section": "Dyscalculia with dyslexia and ADHD",
+      "title": "How often dyscalculia co-occurs with other conditions",
+      "columns": [
+        "Figure",
+        "What it measures",
+        "Source"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "OR 12.25",
+            "Odds of dyslexia in people with dyscalculia",
+            "Guideline meta-analysis, 2019"
+          ],
+          "refs": [
+            "haberstroh2019"
+          ]
+        },
+        {
+          "cells": [
+            "OR 2.12",
+            "Odds of a reading disability in students with a maths disability",
+            "Meta-analysis, 2020"
+          ],
+          "refs": [
+            "joyner2019"
+          ]
+        },
+        {
+          "cells": [
+            "17%",
+            "Children with dyscalculia who also had dyslexia (strict reading cut-off)",
+            "Israel, 1996"
+          ],
+          "refs": [
+            "grosstsur1996"
+          ]
+        },
+        {
+          "cells": [
+            "26%",
+            "Children with dyscalculia with symptoms of ADHD",
+            "Israel, 1996"
+          ],
+          "refs": [
+            "grosstsur1996"
+          ]
+        },
+        {
+          "cells": [
+            "18.1%",
+            "Children with ADHD who had a mathematics disorder",
+            "Canada, 2008"
+          ],
+          "refs": [
+            "capano2008"
+          ]
+        }
+      ]
+    }
+  ],
+  "files": {
+    "csv": "https://dyscalculia.io/data/dyscalculia-statistics.csv",
+    "json": "https://dyscalculia.io/data/dyscalculia-statistics.json",
+    "charts": [
+      "https://dyscalculia.io/data/dyscalculia-statistics-chart-1.svg",
+      "https://dyscalculia.io/data/dyscalculia-statistics-chart-6.svg",
+      "https://dyscalculia.io/data/dyscalculia-statistics-chart-8.svg",
+      "https://dyscalculia.io/data/dyscalculia-statistics-chart-9.svg"
+    ],
+    "screeningTest": "https://dyscalculia.io/data/screening-test.json",
+    "changelog": "https://dyscalculia.io/data/changelog.json"
+  }
+}
