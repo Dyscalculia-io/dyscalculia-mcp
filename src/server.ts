@@ -12,6 +12,8 @@ const GUIDE =
 
 const DATASET_IDS = [...statistics.charts, ...statistics.tables].map((d) => d.id);
 const GAME_ORDER = screening.test.games.map((g) => g.key);
+const ROW_COUNTS = [...statistics.charts, ...statistics.tables].map((d) => d.rows.length);
+const TOPIC_SIZES = TOPICS.map((t) => cited.filter((r) => r.usedInStatistics.includes(t)).length);
 
 /**
  * Every tool is read-only and returns published figures from the dataset. Nothing here scores
@@ -24,12 +26,12 @@ export function createServer(): McpServer {
     "get_prevalence",
     {
       title: "Dyscalculia prevalence figures",
-      description: `Published dyscalculia prevalence figures with sample size, publication year, age, the reference key (see get_reference) and a calc flag (true when the site calculated the figure itself). Filter by study id, by age (entries whose stated age range includes it; entries with no stated age are never matched) or by a percent range (entries whose figure or range overlaps it). With no filter, returns all ${STUDY_IDS.length} entries. ${GUIDE}`,
+      description: `Returns the published dyscalculia prevalence entries, one per population study or guideline: the figure or range in percent, sample size, publication year, stated age, a calc flag (true when the site calculated the figure itself) and the reference key with a short citation. Use this when you need a prevalence number and its source; use list_chart_data instead for the page's other datasets (persistence, sex ratio, comorbidity, maths anxiety, interventions, the by-country table), and get_reference or list_studies to look up sources rather than figures. Filters combine (all must match); with none, it returns all ${STUDY_IDS.length} entries in the page's order, not sorted by figure or year, together with count, the statistics page URL and its last-updated date. An unknown study id returns an error listing the valid ids, and min_pct above max_pct returns an error; the entry id is only a label in this dataset, so to cite a number cite its study via get_reference. ${GUIDE}`,
       inputSchema: {
-        study: z.string().optional().describe(`One study id: ${STUDY_IDS.join(", ")}.`),
-        age: z.number().int().min(3).max(99).optional().describe("Age in years, e.g. 11."),
-        min_pct: z.number().min(0).max(100).optional().describe("Lower bound in percent."),
-        max_pct: z.number().min(0).max(100).optional().describe("Upper bound in percent."),
+        study: z.string().optional().describe(`Exact entry id (case-sensitive); returns only that entry. One of: ${STUDY_IDS.join(", ")}. Omit for all entries.`),
+        age: z.number().int().min(3).max(99).optional().describe("Age in whole years, 3 to 99, e.g. 11. Keeps entries whose stated age range includes it. Entries with no numeric age range are never matched; their ids are returned in notMatchedBecauseNoStatedAge."),
+        min_pct: z.number().min(0).max(100).optional().describe("Lower bound in percent, 0 to 100. Keeps entries whose figure, or the upper end of whose range, is at least this. Combine with max_pct for an overlap window; must not exceed max_pct."),
+        max_pct: z.number().min(0).max(100).optional().describe("Upper bound in percent, 0 to 100. Keeps entries whose figure, or the lower end of whose range, is at most this. Combine with min_pct for an overlap window."),
       },
       annotations: READ_ONLY,
     },
@@ -59,8 +61,8 @@ export function createServer(): McpServer {
     "list_studies",
     {
       title: "List the studies and sources behind the statistics",
-      description: `Lists every source the statistics page cites (peer-reviewed studies with DOI or PMID, plus official statistics and guidelines), with the topics each supports and, for population studies, the prevalence entries built from them. Filter by topic: ${TOPICS.join(", ")}. Use get_reference for one full citation.`,
-      inputSchema: { topic: z.string().optional().describe(`One of: ${TOPICS.join(", ")}.`) },
+      description: `Lists the ${cited.length} sources the statistics page cites (out of the ${references.count} references the site holds): peer-reviewed studies with DOI or PMID where the site prints one, plus official statistics and guidelines. Each row has the key, citation, identifiers, link, kind (article or web), the topics it supports and, for population studies, the get_prevalence entry ids built from it; rows keep the site's reference-list order. Use this to find which sources back a topic or to discover reference keys; use get_reference instead for one key's full record (it also covers references the statistics page does not cite), and get_citation to cite the dyscalculia.io compilation as a whole. With no topic it returns all ${cited.length} sources; an unknown topic returns an error listing the valid topics.`,
+      inputSchema: { topic: z.string().optional().describe(`Keep only sources cited for this section of the statistics page (exact, lowercase; ${Math.min(...TOPIC_SIZES)} to ${Math.max(...TOPIC_SIZES)} sources each). Valid: ${TOPICS.join(", ")}. Omit for every cited source.`) },
       annotations: READ_ONLY,
     },
     async ({ topic }) => {
@@ -88,8 +90,8 @@ export function createServer(): McpServer {
     "get_reference",
     {
       title: "Get one full reference",
-      description: `Full citation for one reference key (for example shalev2000, grosstsur1996), with its DOI and PMID when the site has them, the link the site uses, and the topics that cite it. The site holds ${references.count} references; keys are returned by get_prevalence and list_studies.`,
-      inputSchema: { key: z.string().describe("Reference key, e.g. shalev2000") },
+      description: `Returns the full record for one reference key: citation, DOI and PMID when the site prints them (none is added), url and the link the site uses, kind, the statistics topics that cite it, the get_prevalence entry ids built from it, and a license note. Any of the ${references.count} keys in the site's reference list works, including those the statistics page does not cite. Use this when you hold a key (from get_prevalence, list_studies or a list_chart_data row) and need to cite that one study; use list_studies instead to discover keys or browse sources by topic, and get_citation instead to cite the dyscalculia.io compilation itself. An unknown key returns an error with similar keys and the keys the statistics page cites.`,
+      inputSchema: { key: z.string().describe("Exact reference key, case-sensitive, e.g. shalev2000, grosstsur1996, ncesDigest20430. Required.") },
       annotations: READ_ONLY,
     },
     async ({ key }) => {
@@ -107,10 +109,10 @@ export function createServer(): McpServer {
     {
       title: "Explain the free number-skills screening test",
       description:
-        "Describes the five screening games on dyscalculia.io: what each measures, how many items it has, what an item is and how items and games are scored in general terms, and the limits. Optionally returns the item sets (dot counts, number pairs, number-line targets, digit-sequence lengths). It describes the test only: it does not score anyone, take answers or return a result. The test is a screening of basic number skills, not a diagnosis.",
+        `Describes the ${screening.test.games.length} number-skill screening games on dyscalculia.io (${screening.test.totalItems} items in total): for each game its key, name, the skill it measures, the task, item count and how items and games are scored in general terms, plus the fixed item order, the not-a-diagnosis statement, the limits (no norm sample, percentiles or accuracy study) and the methodology link. Use this to explain what the test is and how it works; use get_prevalence or list_chart_data instead for research figures about dyscalculia. It is a description only: it takes no answers, scores no one and returns no result, and the test is a screening of basic number skills, not a diagnosis. An unknown game key returns an error listing the valid keys.`,
       inputSchema: {
-        game: z.string().optional().describe(`One game key: ${GAME_ORDER.join(", ")}.`),
-        include_items: z.boolean().optional().describe("Include the item sets. Default false."),
+        game: z.string().optional().describe(`Return only this game (exact key): ${GAME_ORDER.join(", ")}. Omit for all ${GAME_ORDER.length} games, in the order listed here.`),
+        include_items: z.boolean().optional().describe("When true, adds each returned game's item set (dot counts, number pairs, number-line targets, digit-sequence lengths). Default false. Works with or without game."),
       },
       annotations: READ_ONLY,
     },
@@ -147,8 +149,8 @@ export function createServer(): McpServer {
     {
       title: "Charts and tables on the statistics page",
       description:
-        "Lists the chart and table datasets on the statistics page (id, title, topic, section, row count) with their download addresses: the CSV and JSON of the whole page, one SVG per chart, the screening-test JSON and the changelog JSON. Pass an id (for example chart-1, table-2) to get that dataset's rows with their values, notes and reference keys.",
-      inputSchema: { id: z.string().optional().describe(`One of: ${DATASET_IDS.join(", ")}.`) },
+        `Lists the ${DATASET_IDS.length} datasets behind the statistics page's ${statistics.charts.length} charts and ${statistics.tables.length} tables (id, kind, title, topic, section, row count; ids are not consecutive) with the download addresses: the whole page as CSV and JSON, one SVG per chart, the screening-test JSON and the changelog JSON. Pass an id to get that one dataset's rows (${Math.min(...ROW_COUNTS)} to ${Math.max(...ROW_COUNTS)} per dataset) with values, notes and reference keys, plus the license and citeAs text. Use this for topics beyond prevalence (persistence, maths anxiety, interventions, by-country, sex ratio, comorbidity) or for the exact rows a chart plots; use get_prevalence instead for prevalence figures with sample size, age and filters (chart-1 plots only a subset of those entries). An unknown id returns an error listing the valid ids.`,
+      inputSchema: { id: z.string().optional().describe(`Dataset id, exact: ${DATASET_IDS.join(", ")}. Omit to list every dataset without its rows.`) },
       annotations: READ_ONLY,
     },
     async ({ id }) => {
@@ -173,7 +175,7 @@ export function createServer(): McpServer {
     "get_citation",
     {
       title: "How to cite and reuse the dyscalculia.io data",
-      description: "License (the compilation is CC BY 4.0; each figure belongs to its cited source), the citation text, an HTML credit link and the download addresses. To cite a single number, cite its study: use get_reference.",
+      description: "Returns how to cite and reuse the dyscalculia.io statistics compilation as a whole: the license (the compilation is CC BY 4.0; each figure belongs to its cited source), the citeAs text, an HTML credit link, the page URL, last-updated and next-review dates, download addresses (CSV, JSON, screening-test JSON, chart SVGs), the methodology link and the honest limits. Takes no parameters and returns the same object for the current data snapshot. Use this when crediting the dataset, a chart or a table from dyscalculia.io; use get_reference instead to cite the single study behind one number, and list_studies to find which studies back a topic.",
       inputSchema: {},
       annotations: READ_ONLY,
     },
